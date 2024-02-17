@@ -1,0 +1,836 @@
+{
+  "3561295112": [
+    {
+      "ocBetId": 26987799491,
+      "betName": "Crystal Palace",
+      "decimal": 11,
+      "bookmakerCodes": [
+        "EE",
+        "CE",
+        "KN",
+        "OE",
+        "N4",
+        "LD",
+        "FR",
+        "DP"
+      ]
+    },
+    {
+      "ocBetId": 26987799483,
+      "betName": "Draw",
+      "decimal": 5.8,
+      "bookmakerCodes": [
+        "KN",
+        "DP"
+      ]
+    },
+    {
+      "ocBetId": 26987799486,
+      "betName": "Arsenal",
+      "decimal": 1.33,
+      "bookmakerCodes": [
+        "B3"
+      ]
+    }
+  ],
+  "3561295050": [
+    {
+      "ocBetId": 26987799155,
+      "betName": "Nottingham Forest",
+      "decimal": 4.2,
+      "bookmakerCodes": [
+        "KN",
+        "DP"
+      ]
+    },
+    {
+      "ocBetId": 26987799119,
+      "betName": "Brentford",
+      "decimal": 2,
+      "bookmakerCodes": [
+        "N4",
+        "QN",
+        "G5"
+      ]
+    },
+    {
+      "ocBetId": 26987799089,
+      "betName": "Draw",
+      "decimal": 3.8,
+      "bookmakerCodes": [
+        "KN",
+        "DP"
+      ]
+    }
+  ],
+  "3561294964": [
+    {
+      "ocBetId": 26987798737,
+      "betName": "Draw",
+      "decimal": 3.6,
+      "bookmakerCodes": [
+        "KN",
+        "DP"
+      ]
+    },
+    {
+      "ocBetId": 26987798774,
+      "betName": "Sheffield Utd",
+      "decimal": 3.5,
+      "bookmakerCodes": [
+        "EE",
+        "B3",
+        "CE",
+        "KN",
+        "N4",
+        "SK",
+        "LD",
+        "FR",
+        "DP"
+      ]
+    },
+    {
+      "ocBetId": 26987798741,
+      "betName": "West Ham",
+      "decimal": 2.2,
+      "bookmakerCodes": [
+        "KN",
+        "DP"
+      ]
+    }
+  ],
+  "3561295009": [
+    {
+      "ocBetId": 26987798960,
+      "betName": "Liverpool",
+      "decimal": 1.73,
+      "bookmakerCodes": [
+        "VT"
+      ]
+    },
+    {
+      "ocBetId": 26987798967,
+      "betName": "Draw",
+      "decimal": 4.5,
+      "bookmakerCodes": [
+        "KN",
+        "DP"
+      ]
+    },
+    {
+      "ocBetId": 26987799000,
+      "betName": "Bournemouth",
+      "decimal": 4.6,
+      "bookmakerCodes": [
+        "KN",
+        "DP"
+      ]
+    }
+  ],
+  "3561295042": [
+    {
+      "ocBetId": 26987799083,
+      "betName": "Draw",
+      "decimal": 4.4,
+      "bookmakerCodes": [
+        "VT"
+      ]
+    },
+    {
+      "ocBetId": 26987799097,
+      "betName": "Brighton",
+      "decimal": 1.67,
+      "bookmakerCodes": [
+        "KN",
+        "DP",
+        "QN",
+        "G5"
+      ]
+    },
+    {
+      "ocBetId": 26987799146,
+      "betName": "Wolverhampton",
+      "decimal": 5.25,
+      "bookmakerCodes": [
+        "B3",
+        "KN",
+        "DP",
+        "VC"
+      ]
+    }
+  ],
+  "3561361916": [
+    {
+      "ocBetId": 26988610142,
+      "betName": "Nottingham Forest",
+      "decimal": 7.5,
+      "bookmakerCodes": [
+        "B3",
+        "N4",
+        "FR"
+      ]
+    },
+    {
+      "ocBetId": 26988610031,
+      "betName": "Arsenal",
+      "decimal": 1.5,
+      "bookmakerCodes": [
+        "KN",
+        "DP"
+      ]
+    },
+    {
+      "ocBetId": 26988610104,
+      "betName": "Draw",
+      "decimal": 4.75,
+      "bookmakerCodes": [
+        "KN",
+        "DP"
+      ]
+    }
+  ],
+  "3561361857": [
+    {
+      "ocBetId": 26988609583,
+      "betName": "Draw",
+      "decimal": 4.35,
+      "bookmakerCodes": [
+        "KN",
+        "DP"
+      ]
+    },
+    {
+      "ocBetId": 26988609602,
+      "betName": "Luton",
+      "decimal": 5.25,
+      "bookmakerCodes": [
+        "VC"
+      ]
+    },
+    {
+      "ocBetId": 26988609708,
+      "betName": "Brighton",
+      "decimal": 1.68,
+      "bookmakerCodes": [
+        "KN",
+        "DP"
+      ]
+    }
+  ],
+  "3561361902": [
+    {
+      "ocBetId": 26988609971,
+      "betName": "Draw",
+      "decimal": 3.6,
+      "bookmakerCodes": [
+        "KN",
+        "DP"
+      ]
+    },
+    {
+      "ocBetId": 26988610299,
+      "betName": "Everton",
+      "decimal": 3,
+      "bookmakerCodes": [
+        "KN",
+        "DP"
+      ]
+    },
+    {
+      "ocBetId": 26988609949,
+      "betName": "Fulham",
+      "decimal": 2.49,
+      "bookmakerCodes": [
+        "VT"
+      ]
+    }
+  ],
+  "3561361849": [
+    {
+      "ocBetId": 26988609542,
+      "betName": "Draw",
+      "decimal": 4.5,
+      "bookmakerCodes": [
+        "KN",
+        "DP"
+      ]
+    },
+    {
+      "ocBetId": 26988609556,
+      "betName": "Sheffield Utd",
+      "decimal": 8,
+      "bookmakerCodes": [
+        "KN",
+        "DP"
+      ]
+    },
+    {
+      "ocBetId": 26988609521,
+      "betName": "Crystal Palace",
+      "decimal": 1.52,
+      "bookmakerCodes": [
+        "VT"
+      ]
+    }
+  ],
+  "3561361943": [
+    {
+      "ocBetId": 26988610268,
+      "betName": "Newcastle",
+      "decimal": 3.9,
+      "bookmakerCodes": [
+        "KN",
+        "DP"
+      ]
+    },
+    {
+      "ocBetId": 26988610289,
+      "betName": "Draw",
+      "decimal": 4,
+      "bookmakerCodes": [
+        "B3",
+        "WH",
+        "KN",
+        "DP",
+        "QN",
+        "G5"
+      ]
+    },
+    {
+      "ocBetId": 26988610306,
+      "betName": "Aston Villa",
+      "decimal": 1.95,
+      "bookmakerCodes": [
+        "CE",
+        "N4",
+        "OE",
+        "LD",
+        "SK",
+        "QN",
+        "G5"
+      ]
+    }
+  ],
+  "3561361754": [
+    {
+      "ocBetId": 26988608642,
+      "betName": "Draw",
+      "decimal": 13,
+      "bookmakerCodes": [
+        "VT"
+      ]
+    },
+    {
+      "ocBetId": 26988608485,
+      "betName": "Man City",
+      "decimal": 1.11,
+      "bookmakerCodes": [
+        "KN",
+        "DP"
+      ]
+    },
+    {
+      "ocBetId": 26988608616,
+      "betName": "Burnley",
+      "decimal": 34,
+      "bookmakerCodes": [
+        "CE",
+        "LD"
+      ]
+    }
+  ],
+  "3561362443": [
+    {
+      "ocBetId": 26988613072,
+      "betName": "Draw",
+      "decimal": 4.6,
+      "bookmakerCodes": [
+        "KN",
+        "DP"
+      ]
+    },
+    {
+      "ocBetId": 26988613103,
+      "betName": "Tottenham",
+      "decimal": 1.62,
+      "bookmakerCodes": [
+        "KN",
+        "N4",
+        "DP"
+      ]
+    },
+    {
+      "ocBetId": 26988613134,
+      "betName": "Brentford",
+      "decimal": 5.4,
+      "bookmakerCodes": [
+        "KN",
+        "DP"
+      ]
+    }
+  ],
+  "3561362579": [
+    {
+      "ocBetId": 26988613715,
+      "betName": "Draw",
+      "decimal": 4.7,
+      "bookmakerCodes": [
+        "KN",
+        "DP"
+      ]
+    },
+    {
+      "ocBetId": 26988613701,
+      "betName": "Chelsea",
+      "decimal": 5.75,
+      "bookmakerCodes": [
+        "KN",
+        "DP"
+      ]
+    },
+    {
+      "ocBetId": 26988613716,
+      "betName": "Liverpool",
+      "decimal": 1.58,
+      "bookmakerCodes": [
+        "KN",
+        "DP"
+      ]
+    }
+  ],
+  "3561362456": [
+    {
+      "ocBetId": 26988613088,
+      "betName": "Bournemouth",
+      "decimal": 2.88,
+      "bookmakerCodes": [
+        "QN",
+        "G5"
+      ]
+    },
+    {
+      "ocBetId": 26988613070,
+      "betName": "Draw",
+      "decimal": 3.8,
+      "bookmakerCodes": [
+        "B3"
+      ]
+    },
+    {
+      "ocBetId": 26988613104,
+      "betName": "West Ham",
+      "decimal": 2.48,
+      "bookmakerCodes": [
+        "KN",
+        "DP"
+      ]
+    }
+  ],
+  "3561362442": [
+    {
+      "ocBetId": 26988613009,
+      "betName": "Wolverhampton",
+      "decimal": 2.8,
+      "bookmakerCodes": [
+        "KN",
+        "DP"
+      ]
+    },
+    {
+      "ocBetId": 26988613050,
+      "betName": "Draw",
+      "decimal": 3.75,
+      "bookmakerCodes": [
+        "KN",
+        "DP"
+      ]
+    },
+    {
+      "ocBetId": 26988613065,
+      "betName": "Man Utd",
+      "decimal": 2.5,
+      "bookmakerCodes": [
+        "CE",
+        "KN",
+        "N4",
+        "FR",
+        "DP",
+        "QN",
+        "G5",
+        "VT"
+      ]
+    }
+  ],
+  "3561680961": [
+    {
+      "ocBetId": 26991818418,
+      "betName": "Sunderland",
+      "decimal": 1.95,
+      "bookmakerCodes": [
+        "EE",
+        "OE",
+        "N4",
+        "FR",
+        "QN",
+        "G5"
+      ]
+    },
+    {
+      "ocBetId": 26991818572,
+      "betName": "Draw",
+      "decimal": 3.8,
+      "bookmakerCodes": [
+        "KN",
+        "SX",
+        "SI",
+        "DP"
+      ]
+    },
+    {
+      "ocBetId": 26991818571,
+      "betName": "Hull",
+      "decimal": 4,
+      "bookmakerCodes": [
+        "B3",
+        "SX",
+        "SI"
+      ]
+    }
+  ],
+  "3561680918": [
+    {
+      "ocBetId": 26991818257,
+      "betName": "Swansea",
+      "decimal": 5,
+      "bookmakerCodes": [
+        "PP",
+        "FR",
+        "FB"
+      ]
+    },
+    {
+      "ocBetId": 26991818291,
+      "betName": "Draw",
+      "decimal": 4.2,
+      "bookmakerCodes": [
+        "SK"
+      ]
+    },
+    {
+      "ocBetId": 26991818281,
+      "betName": "Southampton",
+      "decimal": 1.7,
+      "bookmakerCodes": [
+        "KN",
+        "DP"
+      ]
+    }
+  ],
+  "3561680963": [
+    {
+      "ocBetId": 26991818603,
+      "betName": "Coventry",
+      "decimal": 2.3,
+      "bookmakerCodes": [
+        "CE",
+        "OE",
+        "N4"
+      ]
+    },
+    {
+      "ocBetId": 26991818681,
+      "betName": "Draw",
+      "decimal": 3.55,
+      "bookmakerCodes": [
+        "KN",
+        "DP"
+      ]
+    },
+    {
+      "ocBetId": 26991818396,
+      "betName": "Sheffield Wednesday",
+      "decimal": 3.2,
+      "bookmakerCodes": [
+        "KN",
+        "BY",
+        "DP"
+      ]
+    }
+  ],
+  "3561680956": [
+    {
+      "ocBetId": 26991818336,
+      "betName": "Millwall",
+      "decimal": 3.15,
+      "bookmakerCodes": [
+        "KN",
+        "DP"
+      ]
+    },
+    {
+      "ocBetId": 26991818333,
+      "betName": "QPR",
+      "decimal": 2.55,
+      "bookmakerCodes": [
+        "CE"
+      ]
+    },
+    {
+      "ocBetId": 26991818328,
+      "betName": "Draw",
+      "decimal": 3.3,
+      "bookmakerCodes": [
+        "B3"
+      ]
+    }
+  ],
+  "3561680952": [
+    {
+      "ocBetId": 26991818363,
+      "betName": "Cardiff City",
+      "decimal": 3.25,
+      "bookmakerCodes": [
+        "B3",
+        "OE",
+        "FR"
+      ]
+    },
+    {
+      "ocBetId": 26991818394,
+      "betName": "Draw",
+      "decimal": 3.65,
+      "bookmakerCodes": [
+        "KN",
+        "DP"
+      ]
+    },
+    {
+      "ocBetId": 26991818378,
+      "betName": "Plymouth Argyle",
+      "decimal": 2.37,
+      "bookmakerCodes": [
+        "SK"
+      ]
+    }
+  ],
+  "3561681052": [
+    {
+      "ocBetId": 26991819052,
+      "betName": "Stoke",
+      "decimal": 1.95,
+      "bookmakerCodes": [
+        "KN",
+        "OE",
+        "FR",
+        "DP",
+        "QN",
+        "G5"
+      ]
+    },
+    {
+      "ocBetId": 26991819043,
+      "betName": "Draw",
+      "decimal": 3.6,
+      "bookmakerCodes": [
+        "B3",
+        "KN",
+        "DP"
+      ]
+    },
+    {
+      "ocBetId": 26991819051,
+      "betName": "Birmingham",
+      "decimal": 4.33,
+      "bookmakerCodes": [
+        "SK"
+      ]
+    }
+  ],
+  "3561680893": [
+    {
+      "ocBetId": 26991818292,
+      "betName": "Watford",
+      "decimal": 3.1,
+      "bookmakerCodes": [
+        "BY"
+      ]
+    },
+    {
+      "ocBetId": 26991818230,
+      "betName": "Bristol City",
+      "decimal": 2.42,
+      "bookmakerCodes": [
+        "KN",
+        "DP"
+      ]
+    },
+    {
+      "ocBetId": 26991818276,
+      "betName": "Draw",
+      "decimal": 3.4,
+      "bookmakerCodes": [
+        "B3",
+        "QN",
+        "G5"
+      ]
+    }
+  ],
+  "3561680894": [
+    {
+      "ocBetId": 26991818275,
+      "betName": "Huddersfield",
+      "decimal": 4.6,
+      "bookmakerCodes": [
+        "SK"
+      ]
+    },
+    {
+      "ocBetId": 26991818282,
+      "betName": "Blackburn",
+      "decimal": 1.88,
+      "bookmakerCodes": [
+        "KN",
+        "DP"
+      ]
+    },
+    {
+      "ocBetId": 26991818235,
+      "betName": "Draw",
+      "decimal": 4.2,
+      "bookmakerCodes": [
+        "SK"
+      ]
+    }
+  ],
+  "3561680950": [
+    {
+      "ocBetId": 26991818358,
+      "betName": "Rotherham",
+      "decimal": 13,
+      "bookmakerCodes": [
+        "CE",
+        "LD",
+        "FB"
+      ]
+    },
+    {
+      "ocBetId": 26991818355,
+      "betName": "Middlesbrough",
+      "decimal": 1.28,
+      "bookmakerCodes": [
+        "KN",
+        "DP"
+      ]
+    },
+    {
+      "ocBetId": 26991818372,
+      "betName": "Draw",
+      "decimal": 6,
+      "bookmakerCodes": [
+        "QN",
+        "G5"
+      ]
+    }
+  ],
+  "3561680964": [
+    {
+      "ocBetId": 26991818387,
+      "betName": "Norwich",
+      "decimal": 2.8,
+      "bookmakerCodes": [
+        "CE"
+      ]
+    },
+    {
+      "ocBetId": 26991818397,
+      "betName": "Draw",
+      "decimal": 3.4,
+      "bookmakerCodes": [
+        "PP",
+        "B3",
+        "SK",
+        "FB",
+        "QN",
+        "G5"
+      ]
+    },
+    {
+      "ocBetId": 26991818393,
+      "betName": "West Brom",
+      "decimal": 2.7,
+      "bookmakerCodes": [
+        "KN",
+        "DP"
+      ]
+    }
+  ],
+  "3561681041": [
+    {
+      "ocBetId": 26991818932,
+      "betName": "Leeds",
+      "decimal": 1.3,
+      "bookmakerCodes": [
+        "B3",
+        "CE",
+        "KN",
+        "SX",
+        "OE",
+        "SI",
+        "LD",
+        "WA",
+        "DP",
+        "QN",
+        "G5",
+        "VT"
+      ]
+    },
+    {
+      "ocBetId": 26991818930,
+      "betName": "Preston",
+      "decimal": 12,
+      "bookmakerCodes": [
+        "WH"
+      ]
+    },
+    {
+      "ocBetId": 26991818927,
+      "betName": "Draw",
+      "decimal": 5.75,
+      "bookmakerCodes": [
+        "KN",
+        "DP"
+      ]
+    }
+  ],
+  "3561680978": [
+    {
+      "ocBetId": 26991818407,
+      "betName": "Leicester",
+      "decimal": 2,
+      "bookmakerCodes": [
+        "CE",
+        "OE",
+        "QN",
+        "G5"
+      ]
+    },
+    {
+      "ocBetId": 26991818633,
+      "betName": "Ipswich",
+      "decimal": 4.05,
+      "bookmakerCodes": [
+        "KN",
+        "DP"
+      ]
+    },
+    {
+      "ocBetId": 26991818413,
+      "betName": "Draw",
+      "decimal": 3.65,
+      "bookmakerCodes": [
+        "KN",
+        "DP"
+      ]
+    }
+  ]
+}

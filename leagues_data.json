@@ -1,0 +1,2323 @@
+[
+  {
+    "name": "Football",
+    "url": "football/leagues-cups",
+    "markets": [
+      "winner",
+      "both-teams-to-score",
+      "draw-no-bet",
+      "handicaps"
+    ],
+    "leagues": [
+      {
+        "name": "Europa League",
+        "url": "https://www.oddschecker.com/football/europa-league"
+      },
+      {
+        "name": "Championship",
+        "url": "https://www.oddschecker.com/football/english/championship"
+      },
+      {
+        "name": "EFL Cup",
+        "url": "https://www.oddschecker.com/football/english/efl-cup"
+      },
+      {
+        "name": "Premier League",
+        "url": "https://www.oddschecker.com/football/english/premier-league"
+      },
+      {
+        "name": "Champions League",
+        "url": "https://www.oddschecker.com/football/champions-league"
+      },
+      {
+        "name": "FA Cup",
+        "url": "https://www.oddschecker.com/football/english/fa-cup"
+      },
+      {
+        "name": "League One",
+        "url": "https://www.oddschecker.com/football/english/league-1"
+      },
+      {
+        "name": "League Two",
+        "url": "https://www.oddschecker.com/football/english/league-2"
+      },
+      {
+        "name": "Euro Qualifiers",
+        "url": "https://www.oddschecker.com/football/euro-2024"
+      },
+      {
+        "name": "Europa Conference League",
+        "url": "https://www.oddschecker.com/football/uefa-europa-conference-league"
+      },
+      {
+        "name": "Friendlies",
+        "url": "https://www.oddschecker.com/football/friendlies"
+      },
+      {
+        "name": "Scottish Premiership",
+        "url": "https://www.oddschecker.com/football/scottish/premiership"
+      },
+      {
+        "name": "Bundesliga",
+        "url": "https://www.oddschecker.com/football/germany/bundesliga"
+      },
+      {
+        "name": "Serie A",
+        "url": "https://www.oddschecker.com/football/italy/serie-a"
+      },
+      {
+        "name": "La Liga",
+        "url": "https://www.oddschecker.com/football/spain/la-liga-primera"
+      },
+      {
+        "name": "Premier League",
+        "url": "https://www.oddschecker.com/football/english/premier-league"
+      },
+      {
+        "name": "Championship",
+        "url": "https://www.oddschecker.com/football/english/championship"
+      },
+      {
+        "name": "League 1",
+        "url": "https://www.oddschecker.com/football/english/league-1"
+      },
+      {
+        "name": "League 2",
+        "url": "https://www.oddschecker.com/football/english/league-2"
+      },
+      {
+        "name": "FA Cup",
+        "url": "https://www.oddschecker.com/football/english/fa-cup"
+      },
+      {
+        "name": "EFL Cup",
+        "url": "https://www.oddschecker.com/football/english/efl-cup"
+      },
+      {
+        "name": "EFL Trophy",
+        "url": "https://www.oddschecker.com/football/english/efl-trophy"
+      },
+      {
+        "name": "National League",
+        "url": "https://www.oddschecker.com/football/english/non-league/national-league"
+      },
+      {
+        "name": "National League North",
+        "url": "https://www.oddschecker.com/football/english/non-league/national-league-north"
+      },
+      {
+        "name": "National League South",
+        "url": "https://www.oddschecker.com/football/english/non-league/national-league-south"
+      },
+      {
+        "name": "Northern Premier League",
+        "url": "https://www.oddschecker.com/football/english/non-league/northern-premier-league"
+      },
+      {
+        "name": "Southern League Central",
+        "url": "https://www.oddschecker.com/football/english/non-league/southern-league-central"
+      },
+      {
+        "name": "Southern League South",
+        "url": "https://www.oddschecker.com/football/english/non-league/southern-league-south"
+      },
+      {
+        "name": "Isthmian League",
+        "url": "https://www.oddschecker.com/football/english/non-league/isthmian-league"
+      },
+      {
+        "name": "FA Trophy",
+        "url": "https://www.oddschecker.com/football/english/non-league/fa-trophy"
+      },
+      {
+        "name": "English Professional Development League",
+        "url": "https://www.oddschecker.com/football/english/non-league/english-professional-development-league"
+      },
+      {
+        "name": "Premiership",
+        "url": "https://www.oddschecker.com/football/scottish/premiership"
+      },
+      {
+        "name": "Championship",
+        "url": "https://www.oddschecker.com/football/scottish/championship"
+      },
+      {
+        "name": "League 1",
+        "url": "https://www.oddschecker.com/football/scottish/league-1"
+      },
+      {
+        "name": "League 2",
+        "url": "https://www.oddschecker.com/football/scottish/league-2"
+      },
+      {
+        "name": "FA Cup",
+        "url": "https://www.oddschecker.com/football/scottish/fa-cup"
+      },
+      {
+        "name": "Challenge Cup",
+        "url": "https://www.oddschecker.com/football/scottish/challenge-cup"
+      },
+      {
+        "name": "Non League",
+        "url": "https://www.oddschecker.com/football/scottish/non-league"
+      },
+      {
+        "name": "Highland League",
+        "url": "https://www.oddschecker.com/football/scottish/highland-league"
+      },
+      {
+        "name": "UEFA Europa Conference League",
+        "url": "https://www.oddschecker.com/football/uefa-europa-conference-league"
+      },
+      {
+        "name": "Boosts",
+        "url": "https://www.oddschecker.com/football/accumulator#BestOfTheBoosts"
+      },
+      {
+        "name": "Acca Scout",
+        "url": "https://www.oddschecker.com/tips/football/20230831-mark-ohaire-tips-for-the-premier-league-fixtures-this-weekend"
+      },
+      {
+        "name": "Bundesliga",
+        "url": "https://www.oddschecker.com/football/germany/bundesliga"
+      },
+      {
+        "name": "Bundesliga 2",
+        "url": "https://www.oddschecker.com/football/germany/bundesliga-2"
+      },
+      {
+        "name": "3rd Liga",
+        "url": "https://www.oddschecker.com/football/germany/3rd-liga"
+      },
+      {
+        "name": "DFB Pokal",
+        "url": "https://www.oddschecker.com/football/germany/dfb-pokal"
+      },
+      {
+        "name": "Liga Pokal",
+        "url": "https://www.oddschecker.com/football/germany/liga-pokal"
+      },
+      {
+        "name": "Lower Leagues",
+        "url": "https://www.oddschecker.com/football/germany/lower-leagues"
+      },
+      {
+        "name": "Youth",
+        "url": "https://www.oddschecker.com/football/germany/youth"
+      },
+      {
+        "name": "Ligue 1",
+        "url": "https://www.oddschecker.com/football/france/ligue-1"
+      },
+      {
+        "name": "Ligue 2",
+        "url": "https://www.oddschecker.com/football/france/ligue-2"
+      },
+      {
+        "name": "National",
+        "url": "https://www.oddschecker.com/football/france/national"
+      },
+      {
+        "name": "CFA",
+        "url": "https://www.oddschecker.com/football/france/cfa"
+      },
+      {
+        "name": "Coupe de France",
+        "url": "https://www.oddschecker.com/football/france/coupe-de-france"
+      },
+      {
+        "name": "Youth",
+        "url": "https://www.oddschecker.com/football/france/youth"
+      },
+      {
+        "name": "Serie A",
+        "url": "https://www.oddschecker.com/football/italy/serie-a"
+      },
+      {
+        "name": "Serie B",
+        "url": "https://www.oddschecker.com/football/italy/serie-b"
+      },
+      {
+        "name": "Coppa Italia",
+        "url": "https://www.oddschecker.com/football/italy/coppa-italia"
+      },
+      {
+        "name": "Super Cup",
+        "url": "https://www.oddschecker.com/football/italy/super-cup"
+      },
+      {
+        "name": "Serie C",
+        "url": "https://www.oddschecker.com/football/italy/serie-c"
+      },
+      {
+        "name": "Lega Pro Coppa",
+        "url": "https://www.oddschecker.com/football/italy/lega-pro-coppa"
+      },
+      {
+        "name": "Copa Primavera",
+        "url": "https://www.oddschecker.com/football/italy/copa-primavera"
+      },
+      {
+        "name": "La Liga Primera",
+        "url": "https://www.oddschecker.com/football/spain/la-liga-primera"
+      },
+      {
+        "name": "La Liga Segunda",
+        "url": "https://www.oddschecker.com/football/spain/la-liga-segunda"
+      },
+      {
+        "name": "Copa del Rey",
+        "url": "https://www.oddschecker.com/football/spain/copa-del-rey"
+      },
+      {
+        "name": "Primeira Liga",
+        "url": "https://www.oddschecker.com/football/portugal/primeira-liga"
+      },
+      {
+        "name": "Segunda Liga",
+        "url": "https://www.oddschecker.com/football/portugal/segunda-liga"
+      },
+      {
+        "name": "Portuguese Cup",
+        "url": "https://www.oddschecker.com/football/portugal/cup"
+      },
+      {
+        "name": "Andorran Cup",
+        "url": "https://www.oddschecker.com/football/andorra/cup"
+      },
+      {
+        "name": "First League",
+        "url": "https://www.oddschecker.com/football/armenia/first-league"
+      },
+      {
+        "name": "Armenian Cup",
+        "url": "https://www.oddschecker.com/football/armenia/cup"
+      },
+      {
+        "name": "Austrian Cup",
+        "url": "https://www.oddschecker.com/football/austria/austrian-cup"
+      },
+      {
+        "name": "Bundesliga",
+        "url": "https://www.oddschecker.com/football/austria/bundesliga"
+      },
+      {
+        "name": "2 Liga",
+        "url": "https://www.oddschecker.com/football/austria/1-liga"
+      },
+      {
+        "name": "Lower Leagues",
+        "url": "https://www.oddschecker.com/football/austria/lower-leagues"
+      },
+      {
+        "name": "Azerbaijani Cup",
+        "url": "https://www.oddschecker.com/football/azerbaijan/cup"
+      },
+      {
+        "name": "Youth",
+        "url": "https://www.oddschecker.com/football/azerbaijan/youth"
+      },
+      {
+        "name": "Jupiler Pro League",
+        "url": "https://www.oddschecker.com/football/belgium/jupiler-pro-league"
+      },
+      {
+        "name": "Challenger Pro League",
+        "url": "https://www.oddschecker.com/football/belgium/challenger-pro-league"
+      },
+      {
+        "name": "Division 3",
+        "url": "https://www.oddschecker.com/football/belgium/division-3"
+      },
+      {
+        "name": "Belgian Cup",
+        "url": "https://www.oddschecker.com/football/belgium/cup"
+      },
+      {
+        "name": "Youth",
+        "url": "https://www.oddschecker.com/football/belgium/youth"
+      },
+      {
+        "name": "Amateur",
+        "url": "https://www.oddschecker.com/football/belgium/amateur"
+      },
+      {
+        "name": "Premier Liga",
+        "url": "https://www.oddschecker.com/football/bosnia/premier-liga"
+      },
+      {
+        "name": "1st League",
+        "url": "https://www.oddschecker.com/football/bosnia/1st-league"
+      },
+      {
+        "name": "Bosnian Cup",
+        "url": "https://www.oddschecker.com/football/bosnia/cup"
+      },
+      {
+        "name": "A PFG",
+        "url": "https://www.oddschecker.com/football/bulgaria/a-pfg"
+      },
+      {
+        "name": "Lower Leagues",
+        "url": "https://www.oddschecker.com/football/bulgaria/lower-leagues"
+      },
+      {
+        "name": "1 HNL",
+        "url": "https://www.oddschecker.com/football/croatia/1-hnl"
+      },
+      {
+        "name": "2 HNL",
+        "url": "https://www.oddschecker.com/football/croatia/2-hnl"
+      },
+      {
+        "name": "Croatian Cup",
+        "url": "https://www.oddschecker.com/football/croatia/cup"
+      },
+      {
+        "name": "Youth",
+        "url": "https://www.oddschecker.com/football/croatia/youth"
+      },
+      {
+        "name": "Czech First League",
+        "url": "https://www.oddschecker.com/football/czech-republic/synot-liga"
+      },
+      {
+        "name": "Czech National League",
+        "url": "https://www.oddschecker.com/football/czech-republic/druha-liga"
+      },
+      {
+        "name": "Tipsport Liga",
+        "url": "https://www.oddschecker.com/football/czech-republic/tipsport-liga"
+      },
+      {
+        "name": "Lower Leagues",
+        "url": "https://www.oddschecker.com/football/czech-republic/lower-leagues"
+      },
+      {
+        "name": "Czech Cup",
+        "url": "https://www.oddschecker.com/football/czech-republic/cup"
+      },
+      {
+        "name": "Youth",
+        "url": "https://www.oddschecker.com/football/czech-republic/youth"
+      },
+      {
+        "name": "Superligaen",
+        "url": "https://www.oddschecker.com/football/denmark/superligaen"
+      },
+      {
+        "name": "1st Division",
+        "url": "https://www.oddschecker.com/football/denmark/1st-division"
+      },
+      {
+        "name": "Meistriliiga",
+        "url": "https://www.oddschecker.com/football/estonia/meistriliiga"
+      },
+      {
+        "name": "Esiliiga B",
+        "url": "https://www.oddschecker.com/football/estonia/esiliiga-b"
+      },
+      {
+        "name": "II Liiga",
+        "url": "https://www.oddschecker.com/football/estonia/ii-liiga"
+      },
+      {
+        "name": "Youth",
+        "url": "https://www.oddschecker.com/football/estonia/youth"
+      },
+      {
+        "name": "Effodeildin",
+        "url": "https://www.oddschecker.com/football/faroe-islands/effodeildin"
+      },
+      {
+        "name": "Faroe Isles Cup",
+        "url": "https://www.oddschecker.com/football/faroe-islands/cup"
+      },
+      {
+        "name": "Finland Cup",
+        "url": "https://www.oddschecker.com/football/finland/cup"
+      },
+      {
+        "name": "League Cup",
+        "url": "https://www.oddschecker.com/football/finland/league-cup"
+      },
+      {
+        "name": "Youth",
+        "url": "https://www.oddschecker.com/football/finland/youth"
+      },
+      {
+        "name": "Second League",
+        "url": "https://www.oddschecker.com/football/fyr-macedonia/second-league"
+      },
+      {
+        "name": "Macedonian Cup",
+        "url": "https://www.oddschecker.com/football/fyr-macedonia/cup"
+      },
+      {
+        "name": "Umaglesi Liga",
+        "url": "https://www.oddschecker.com/football/georgia/umaglesi-liga"
+      },
+      {
+        "name": "Georgian Cup",
+        "url": "https://www.oddschecker.com/football/georgia/cup"
+      },
+      {
+        "name": "Reserve",
+        "url": "https://www.oddschecker.com/football/georgia/reserve"
+      },
+      {
+        "name": "Premier League",
+        "url": "https://www.oddschecker.com/football/gibraltar/premier-league"
+      },
+      {
+        "name": "Superleague",
+        "url": "https://www.oddschecker.com/football/greece/superleague"
+      },
+      {
+        "name": "Football League 2",
+        "url": "https://www.oddschecker.com/football/greece/football-league-2"
+      },
+      {
+        "name": "Greek Cup",
+        "url": "https://www.oddschecker.com/football/greece/cup"
+      },
+      {
+        "name": "Youth",
+        "url": "https://www.oddschecker.com/football/greece/youth"
+      },
+      {
+        "name": "NB1",
+        "url": "https://www.oddschecker.com/football/hungary/nb1"
+      },
+      {
+        "name": "NB2",
+        "url": "https://www.oddschecker.com/football/hungary/nb2"
+      },
+      {
+        "name": "NB3",
+        "url": "https://www.oddschecker.com/football/hungary/nb3"
+      },
+      {
+        "name": "Hungarian Cup",
+        "url": "https://www.oddschecker.com/football/hungary/cup"
+      },
+      {
+        "name": "League Cup",
+        "url": "https://www.oddschecker.com/football/hungary/league-cup"
+      },
+      {
+        "name": "Youth",
+        "url": "https://www.oddschecker.com/football/hungary/youth"
+      },
+      {
+        "name": "1 Deild",
+        "url": "https://www.oddschecker.com/football/iceland/1-deild"
+      },
+      {
+        "name": "Lower Leagues",
+        "url": "https://www.oddschecker.com/football/iceland/lower-leagues"
+      },
+      {
+        "name": "League Cup",
+        "url": "https://www.oddschecker.com/football/iceland/league-cup"
+      },
+      {
+        "name": "Youth",
+        "url": "https://www.oddschecker.com/football/iceland/youth"
+      },
+      {
+        "name": "Womens",
+        "url": "https://www.oddschecker.com/football/iceland/womens"
+      },
+      {
+        "name": "Premier Division",
+        "url": "https://www.oddschecker.com/football/ireland/premier-division"
+      },
+      {
+        "name": "First Division",
+        "url": "https://www.oddschecker.com/football/ireland/first-division"
+      },
+      {
+        "name": "League Cup",
+        "url": "https://www.oddschecker.com/football/ireland/league-cup"
+      },
+      {
+        "name": "Lower Leagues",
+        "url": "https://www.oddschecker.com/football/ireland/lower-leagues"
+      },
+      {
+        "name": "Presidents Cup",
+        "url": "https://www.oddschecker.com/football/ireland/presidents-cup"
+      },
+      {
+        "name": "Womens",
+        "url": "https://www.oddschecker.com/football/ireland/womens"
+      },
+      {
+        "name": "U19 National League",
+        "url": "https://www.oddschecker.com/football/ireland/u19-national-league"
+      },
+      {
+        "name": "Premier League",
+        "url": "https://www.oddschecker.com/football/kazakhstan/premier-league"
+      },
+      {
+        "name": "1 Division",
+        "url": "https://www.oddschecker.com/football/kazakhstan/1-division"
+      },
+      {
+        "name": "Kazakhstan Cup",
+        "url": "https://www.oddschecker.com/football/kazakhstan/cup"
+      },
+      {
+        "name": "2 Division",
+        "url": "https://www.oddschecker.com/football/kazakhstan/2-division"
+      },
+      {
+        "name": "1 Liga",
+        "url": "https://www.oddschecker.com/football/latvia/1-liga"
+      },
+      {
+        "name": "2 Liga",
+        "url": "https://www.oddschecker.com/football/latvia/2-liga"
+      },
+      {
+        "name": "Latvian Cup",
+        "url": "https://www.oddschecker.com/football/latvia/cup"
+      },
+      {
+        "name": "Youth",
+        "url": "https://www.oddschecker.com/football/latvia/youth"
+      },
+      {
+        "name": "Liechtenstein",
+        "url": "https://www.oddschecker.com/football/liechtenstein/liechtenstein"
+      },
+      {
+        "name": "A Lyga",
+        "url": "https://www.oddschecker.com/football/lithuania/a-lyga"
+      },
+      {
+        "name": "1 Lyga",
+        "url": "https://www.oddschecker.com/football/lithuania/1-lyga"
+      },
+      {
+        "name": "II Lyga",
+        "url": "https://www.oddschecker.com/football/lithuania/ii-lyga"
+      },
+      {
+        "name": "Lithuanian Cup",
+        "url": "https://www.oddschecker.com/football/lithuania/cup"
+      },
+      {
+        "name": "Youth",
+        "url": "https://www.oddschecker.com/football/lithuania/youth"
+      },
+      {
+        "name": "National Division",
+        "url": "https://www.oddschecker.com/football/luxembourg/national-division"
+      },
+      {
+        "name": "Premier League",
+        "url": "https://www.oddschecker.com/football/malta/premier-league"
+      },
+      {
+        "name": "First Division",
+        "url": "https://www.oddschecker.com/football/malta/first-division"
+      },
+      {
+        "name": "Maltese Cup",
+        "url": "https://www.oddschecker.com/football/malta/cup"
+      },
+      {
+        "name": "Divizia Nationala",
+        "url": "https://www.oddschecker.com/football/moldova/divizia-nationala"
+      },
+      {
+        "name": "Moldovan Cup",
+        "url": "https://www.oddschecker.com/football/moldova/cup"
+      },
+      {
+        "name": "First League",
+        "url": "https://www.oddschecker.com/football/montenegro/first-league"
+      },
+      {
+        "name": "Second League",
+        "url": "https://www.oddschecker.com/football/montenegro/second-league"
+      },
+      {
+        "name": "Eredivisie",
+        "url": "https://www.oddschecker.com/football/netherlands/eredivisie"
+      },
+      {
+        "name": "KNVB Beker",
+        "url": "https://www.oddschecker.com/football/netherlands/knvb-beker"
+      },
+      {
+        "name": "Eerste Divisie",
+        "url": "https://www.oddschecker.com/football/netherlands/eerste-divisie"
+      },
+      {
+        "name": "Dutch Cup",
+        "url": "https://www.oddschecker.com/football/netherlands/cup"
+      },
+      {
+        "name": "Lower Leagues",
+        "url": "https://www.oddschecker.com/football/netherlands/lower-leagues"
+      },
+      {
+        "name": "Youth",
+        "url": "https://www.oddschecker.com/football/netherlands/youth"
+      },
+      {
+        "name": "Northern Ireland Premiership",
+        "url": "https://www.oddschecker.com/football/northern-ireland/northern-ireland-premiership"
+      },
+      {
+        "name": "Championship",
+        "url": "https://www.oddschecker.com/football/northern-ireland/championship"
+      },
+      {
+        "name": "County Antrim Shield",
+        "url": "https://www.oddschecker.com/football/northern-ireland/county-antrim-shield"
+      },
+      {
+        "name": "Steel & Sons Cup",
+        "url": "https://www.oddschecker.com/football/northern-ireland/steel-sons-cup"
+      },
+      {
+        "name": "Reserve",
+        "url": "https://www.oddschecker.com/football/northern-ireland/reserve"
+      },
+      {
+        "name": "Eliteserien",
+        "url": "https://www.oddschecker.com/football/norway/eliteserien"
+      },
+      {
+        "name": "Ekstraklasa",
+        "url": "https://www.oddschecker.com/football/poland/ekstraklasa"
+      },
+      {
+        "name": "1 Liga",
+        "url": "https://www.oddschecker.com/football/poland/1-liga"
+      },
+      {
+        "name": "Super Cup",
+        "url": "https://www.oddschecker.com/football/poland/super-cup"
+      },
+      {
+        "name": "Lower Leagues",
+        "url": "https://www.oddschecker.com/football/poland/lower-leagues"
+      },
+      {
+        "name": "League Cup",
+        "url": "https://www.oddschecker.com/football/poland/league-cup"
+      },
+      {
+        "name": "Youth",
+        "url": "https://www.oddschecker.com/football/poland/youth"
+      },
+      {
+        "name": "Liga I",
+        "url": "https://www.oddschecker.com/football/romania/liga-i"
+      },
+      {
+        "name": "Liga III",
+        "url": "https://www.oddschecker.com/football/romania/liga-iii"
+      },
+      {
+        "name": "Romanian Cup",
+        "url": "https://www.oddschecker.com/football/romania/romanian-cup"
+      },
+      {
+        "name": "Campionato",
+        "url": "https://www.oddschecker.com/football/san-marino/campionato"
+      },
+      {
+        "name": "San Marino Cup",
+        "url": "https://www.oddschecker.com/football/san-marino/cup"
+      },
+      {
+        "name": "Prva Liga",
+        "url": "https://www.oddschecker.com/football/serbia/prva-liga"
+      },
+      {
+        "name": "Serbian Cup",
+        "url": "https://www.oddschecker.com/football/serbia/cup"
+      },
+      {
+        "name": "1 SNL",
+        "url": "https://www.oddschecker.com/football/slovenia/1-snl"
+      },
+      {
+        "name": "Slovenian Cup",
+        "url": "https://www.oddschecker.com/football/slovenia/cup"
+      },
+      {
+        "name": "Super Liga",
+        "url": "https://www.oddschecker.com/football/slovakia/super-liga"
+      },
+      {
+        "name": "II Liga",
+        "url": "https://www.oddschecker.com/football/slovakia/ii-liga"
+      },
+      {
+        "name": "Youth",
+        "url": "https://www.oddschecker.com/football/slovakia/youth"
+      },
+      {
+        "name": "Womens",
+        "url": "https://www.oddschecker.com/football/slovakia/womens"
+      },
+      {
+        "name": "Allsvenskan",
+        "url": "https://www.oddschecker.com/football/sweden/allsvenskan"
+      },
+      {
+        "name": "Swedish Cup",
+        "url": "https://www.oddschecker.com/football/sweden/cup"
+      },
+      {
+        "name": "Super League",
+        "url": "https://www.oddschecker.com/football/switzerland/super-league"
+      },
+      {
+        "name": "Challenge League",
+        "url": "https://www.oddschecker.com/football/switzerland/challenge-league"
+      },
+      {
+        "name": "Turkish Cup",
+        "url": "https://www.oddschecker.com/football/turkey/cup"
+      },
+      {
+        "name": "Super Lig",
+        "url": "https://www.oddschecker.com/football/turkey/super-lig"
+      },
+      {
+        "name": "1 Lig",
+        "url": "https://www.oddschecker.com/football/turkey/1-lig"
+      },
+      {
+        "name": "2 Lig",
+        "url": "https://www.oddschecker.com/football/turkey/2-lig"
+      },
+      {
+        "name": "3 Lig",
+        "url": "https://www.oddschecker.com/football/turkey/3-lig"
+      },
+      {
+        "name": "Youth",
+        "url": "https://www.oddschecker.com/football/turkey/youth"
+      },
+      {
+        "name": "Ukrainian Super Cup",
+        "url": "https://www.oddschecker.com/football/ukraine/ukrainian-super-cup"
+      },
+      {
+        "name": "Druha Liga",
+        "url": "https://www.oddschecker.com/football/ukraine/druha-liga"
+      },
+      {
+        "name": "Ukrainian Cup",
+        "url": "https://www.oddschecker.com/football/ukraine/cup"
+      },
+      {
+        "name": "Lower Leagues",
+        "url": "https://www.oddschecker.com/football/ukraine/lower-leagues"
+      },
+      {
+        "name": "UEFA Youth League",
+        "url": "https://www.oddschecker.com/football/uefa-youth-league"
+      },
+      {
+        "name": "Premier Division",
+        "url": "https://www.oddschecker.com/football/world/antigua/premier-division"
+      },
+      {
+        "name": "1st Division",
+        "url": "https://www.oddschecker.com/football/world/algeria/1st-division"
+      },
+      {
+        "name": "2nd Division",
+        "url": "https://www.oddschecker.com/football/world/algeria/2nd-division"
+      },
+      {
+        "name": "Cup",
+        "url": "https://www.oddschecker.com/football/world/algeria/cup"
+      },
+      {
+        "name": "Youth",
+        "url": "https://www.oddschecker.com/football/world/algeria/youth"
+      },
+      {
+        "name": "Division di Honor",
+        "url": "https://www.oddschecker.com/football/world/aruba/division-di-honor"
+      },
+      {
+        "name": "Primera Division",
+        "url": "https://www.oddschecker.com/football/world/argentina/primera-division"
+      },
+      {
+        "name": "Primera B Nacional",
+        "url": "https://www.oddschecker.com/football/world/argentina/primera-b-nacional"
+      },
+      {
+        "name": "Primera B Metropolitana",
+        "url": "https://www.oddschecker.com/football/world/argentina/primera-b-metropolitana"
+      },
+      {
+        "name": "Primera C Metropolitana",
+        "url": "https://www.oddschecker.com/football/world/argentina/primera-c-metropolitana"
+      },
+      {
+        "name": "Primera D Metropolitana",
+        "url": "https://www.oddschecker.com/football/world/argentina/primera-d-metropolitana"
+      },
+      {
+        "name": "Torneo de Verano",
+        "url": "https://www.oddschecker.com/football/world/argentina/torneo-de-verano"
+      },
+      {
+        "name": "Torneo A",
+        "url": "https://www.oddschecker.com/football/world/argentina/torneo-a"
+      },
+      {
+        "name": "Torneo B",
+        "url": "https://www.oddschecker.com/football/world/argentina/torneo-b"
+      },
+      {
+        "name": "Copa",
+        "url": "https://www.oddschecker.com/football/world/argentina/copa"
+      },
+      {
+        "name": "Youth",
+        "url": "https://www.oddschecker.com/football/world/argentina/youth"
+      },
+      {
+        "name": "A-League",
+        "url": "https://www.oddschecker.com/football/world/australia/a-league"
+      },
+      {
+        "name": "Cup",
+        "url": "https://www.oddschecker.com/football/world/australia/cup"
+      },
+      {
+        "name": "State Leagues",
+        "url": "https://www.oddschecker.com/football/world/australia/state-leagues"
+      },
+      {
+        "name": "Youth Football",
+        "url": "https://www.oddschecker.com/football/world/australia/youth-football"
+      },
+      {
+        "name": "Division 1",
+        "url": "https://www.oddschecker.com/football/world/bahrain/division-1"
+      },
+      {
+        "name": "Cup",
+        "url": "https://www.oddschecker.com/football/world/bahrain/cup"
+      },
+      {
+        "name": "Premier League",
+        "url": "https://www.oddschecker.com/football/world/bangladesh/premier-league"
+      },
+      {
+        "name": "Other ",
+        "url": "https://www.oddschecker.com/football/world/bangladesh/other-"
+      },
+      {
+        "name": "Liga De Futbol",
+        "url": "https://www.oddschecker.com/football/world/bolivia/liga-de-futbol"
+      },
+      {
+        "name": "Premier League",
+        "url": "https://www.oddschecker.com/football/world/burundi/premier-league"
+      },
+      {
+        "name": "Campeonato Serie A",
+        "url": "https://www.oddschecker.com/football/world/brazil/serie-a"
+      },
+      {
+        "name": "Campeonato Serie C",
+        "url": "https://www.oddschecker.com/football/world/brazil/serie-c"
+      },
+      {
+        "name": "Campeonato Serie D",
+        "url": "https://www.oddschecker.com/football/world/brazil/serie-d"
+      },
+      {
+        "name": "Copa do Brazil",
+        "url": "https://www.oddschecker.com/football/world/brazil/copa-do-brazil"
+      },
+      {
+        "name": "Campeonato Paulista",
+        "url": "https://www.oddschecker.com/football/world/brazil/campeonato-paulista"
+      },
+      {
+        "name": "Campeonato Carioca B",
+        "url": "https://www.oddschecker.com/football/world/brazil/campeonato-carioca-b"
+      },
+      {
+        "name": "State Championships",
+        "url": "https://www.oddschecker.com/football/world/brazil/state-championships"
+      },
+      {
+        "name": "State Cups",
+        "url": "https://www.oddschecker.com/football/world/brazil/state-cups"
+      },
+      {
+        "name": "Matches",
+        "url": "https://www.oddschecker.com/football/world/cambodia/matches"
+      },
+      {
+        "name": "Elite Two",
+        "url": "https://www.oddschecker.com/football/world/cameroon/elite-two"
+      },
+      {
+        "name": "CSL First Division",
+        "url": "https://www.oddschecker.com/football/world/canada/csl-first-division"
+      },
+      {
+        "name": "CSL Second Division",
+        "url": "https://www.oddschecker.com/football/world/canada/csl-second-division"
+      },
+      {
+        "name": "CSL Third Division",
+        "url": "https://www.oddschecker.com/football/world/canada/csl-third-division"
+      },
+      {
+        "name": "Canadian Championship",
+        "url": "https://www.oddschecker.com/football/world/canada/canadian-championship"
+      },
+      {
+        "name": "Primera Division",
+        "url": "https://www.oddschecker.com/football/world/chile/primera-division"
+      },
+      {
+        "name": "Segunda",
+        "url": "https://www.oddschecker.com/football/world/chile/segunda"
+      },
+      {
+        "name": "Tercera",
+        "url": "https://www.oddschecker.com/football/world/chile/tercera"
+      },
+      {
+        "name": "Super League",
+        "url": "https://www.oddschecker.com/football/world/china/super-league"
+      },
+      {
+        "name": "Division 1",
+        "url": "https://www.oddschecker.com/football/world/china/division-1"
+      },
+      {
+        "name": "Division 2",
+        "url": "https://www.oddschecker.com/football/world/china/division-2"
+      },
+      {
+        "name": "Primera A",
+        "url": "https://www.oddschecker.com/football/world/colombia/primera-a"
+      },
+      {
+        "name": "Primera B",
+        "url": "https://www.oddschecker.com/football/world/colombia/primera-b"
+      },
+      {
+        "name": "Colombian Super Cup",
+        "url": "https://www.oddschecker.com/football/world/colombia/colombian-super-cup"
+      },
+      {
+        "name": "Youth",
+        "url": "https://www.oddschecker.com/football/world/colombia/youth"
+      },
+      {
+        "name": "Womens",
+        "url": "https://www.oddschecker.com/football/world/colombia/womens"
+      },
+      {
+        "name": "Premier Division",
+        "url": "https://www.oddschecker.com/football/world/costa-rica/premier-division"
+      },
+      {
+        "name": "Segunda Division",
+        "url": "https://www.oddschecker.com/football/world/costa-rica/segunda-division"
+      },
+      {
+        "name": "Youth",
+        "url": "https://www.oddschecker.com/football/world/costa-rica/youth"
+      },
+      {
+        "name": "Serie A",
+        "url": "https://www.oddschecker.com/football/world/ecuador/serie-a"
+      },
+      {
+        "name": "Serie B",
+        "url": "https://www.oddschecker.com/football/world/ecuador/serie-b"
+      },
+      {
+        "name": "Premier League",
+        "url": "https://www.oddschecker.com/football/world/egypt/premier-league"
+      },
+      {
+        "name": "2nd Division",
+        "url": "https://www.oddschecker.com/football/world/egypt/2nd-division"
+      },
+      {
+        "name": "Cup",
+        "url": "https://www.oddschecker.com/football/world/egypt/cup"
+      },
+      {
+        "name": "Primera Division",
+        "url": "https://www.oddschecker.com/football/world/el-salvador/primera-division"
+      },
+      {
+        "name": "Matches",
+        "url": "https://www.oddschecker.com/football/world/fiji/matches"
+      },
+      {
+        "name": "Premier League",
+        "url": "https://www.oddschecker.com/football/world/ghana/premier-league"
+      },
+      {
+        "name": "Liga Nacional",
+        "url": "https://www.oddschecker.com/football/world/guatemala/liga-nacional"
+      },
+      {
+        "name": "Matches",
+        "url": "https://www.oddschecker.com/football/world/haiti/matches"
+      },
+      {
+        "name": "First Division",
+        "url": "https://www.oddschecker.com/football/world/hong-kong/first-division"
+      },
+      {
+        "name": "Cup",
+        "url": "https://www.oddschecker.com/football/world/hong-kong/cup"
+      },
+      {
+        "name": "Lower Leagues",
+        "url": "https://www.oddschecker.com/football/world/hong-kong/lower-leagues"
+      },
+      {
+        "name": "Super League",
+        "url": "https://www.oddschecker.com/football/world/india/super-league"
+      },
+      {
+        "name": "State Leagues",
+        "url": "https://www.oddschecker.com/football/world/india/state-leagues"
+      },
+      {
+        "name": "Cup",
+        "url": "https://www.oddschecker.com/football/world/india/cup"
+      },
+      {
+        "name": "Santosh Trophy",
+        "url": "https://www.oddschecker.com/football/world/india/santosh-trophy"
+      },
+      {
+        "name": "Super Liga",
+        "url": "https://www.oddschecker.com/football/world/indonesia/super-liga"
+      },
+      {
+        "name": "Liga 1",
+        "url": "https://www.oddschecker.com/football/world/indonesia/liga-1"
+      },
+      {
+        "name": "Azadegan League",
+        "url": "https://www.oddschecker.com/football/world/iran/azadegan-league"
+      },
+      {
+        "name": "Cup",
+        "url": "https://www.oddschecker.com/football/world/iran/cup"
+      },
+      {
+        "name": "Youth League",
+        "url": "https://www.oddschecker.com/football/world/iran/youth-league"
+      },
+      {
+        "name": "Premier League",
+        "url": "https://www.oddschecker.com/football/world/iraq/premier-league"
+      },
+      {
+        "name": "Cup",
+        "url": "https://www.oddschecker.com/football/world/jamaica/cup"
+      },
+      {
+        "name": "J Football League",
+        "url": "https://www.oddschecker.com/football/world/japan/j-football-league"
+      },
+      {
+        "name": "J League 3",
+        "url": "https://www.oddschecker.com/football/world/japan/j-league-3"
+      },
+      {
+        "name": "Regional League",
+        "url": "https://www.oddschecker.com/football/world/japan/regional-league"
+      },
+      {
+        "name": "Premier League",
+        "url": "https://www.oddschecker.com/football/world/jordan/premier-league"
+      },
+      {
+        "name": "1st Division",
+        "url": "https://www.oddschecker.com/football/world/jordan/1st-division"
+      },
+      {
+        "name": "Cup",
+        "url": "https://www.oddschecker.com/football/world/jordan/cup"
+      },
+      {
+        "name": "Division 1",
+        "url": "https://www.oddschecker.com/football/world/laos/division-1"
+      },
+      {
+        "name": "Premier League",
+        "url": "https://www.oddschecker.com/football/world/kuwait/premier-league"
+      },
+      {
+        "name": "Division 1",
+        "url": "https://www.oddschecker.com/football/world/kuwait/division-1"
+      },
+      {
+        "name": "Cup",
+        "url": "https://www.oddschecker.com/football/world/kuwait/cup"
+      },
+      {
+        "name": "Premier League",
+        "url": "https://www.oddschecker.com/football/world/lebanon/premier-league"
+      },
+      {
+        "name": "Cup",
+        "url": "https://www.oddschecker.com/football/world/lebanon/cup"
+      },
+      {
+        "name": "Premier League",
+        "url": "https://www.oddschecker.com/football/world/libya/premier-league"
+      },
+      {
+        "name": "Cup",
+        "url": "https://www.oddschecker.com/football/world/libya/cup"
+      },
+      {
+        "name": "1st Division",
+        "url": "https://www.oddschecker.com/football/world/macau/1st-division"
+      },
+      {
+        "name": "Super League",
+        "url": "https://www.oddschecker.com/football/world/malawi/super-league"
+      },
+      {
+        "name": "Super League",
+        "url": "https://www.oddschecker.com/football/world/malaysia/super-league"
+      },
+      {
+        "name": "Premier League",
+        "url": "https://www.oddschecker.com/football/world/malaysia/premier-league"
+      },
+      {
+        "name": "Cup",
+        "url": "https://www.oddschecker.com/football/world/malaysia/cup"
+      },
+      {
+        "name": "Other",
+        "url": "https://www.oddschecker.com/football/world/malaysia/other"
+      },
+      {
+        "name": "National Premier League",
+        "url": "https://www.oddschecker.com/football/world/mongolia/national-premier-league"
+      },
+      {
+        "name": "Liga MX",
+        "url": "https://www.oddschecker.com/football/world/mexico/liga-mx"
+      },
+      {
+        "name": "Ascenso MX",
+        "url": "https://www.oddschecker.com/football/world/mexico/ascenso-mx"
+      },
+      {
+        "name": "Copa MX",
+        "url": "https://www.oddschecker.com/football/world/mexico/copa-mx"
+      },
+      {
+        "name": "Youth Leagues",
+        "url": "https://www.oddschecker.com/football/world/mexico/youth-leagues"
+      },
+      {
+        "name": "GNF 1",
+        "url": "https://www.oddschecker.com/football/world/morocco/gnf-1"
+      },
+      {
+        "name": "GNF 2",
+        "url": "https://www.oddschecker.com/football/world/morocco/gnf-2"
+      },
+      {
+        "name": "Cup",
+        "url": "https://www.oddschecker.com/football/world/morocco/cup"
+      },
+      {
+        "name": "League",
+        "url": "https://www.oddschecker.com/football/world/mozambique/league"
+      },
+      {
+        "name": "u21 National League",
+        "url": "https://www.oddschecker.com/football/world/myanmar/u21-national-league"
+      },
+      {
+        "name": "Championship",
+        "url": "https://www.oddschecker.com/football/world/new-zealand/championship"
+      },
+      {
+        "name": "Youth",
+        "url": "https://www.oddschecker.com/football/world/new-zealand/youth"
+      },
+      {
+        "name": "Cup",
+        "url": "https://www.oddschecker.com/football/world/new-zealand/cup"
+      },
+      {
+        "name": "Premier League",
+        "url": "https://www.oddschecker.com/football/world/nigeria/premier-league"
+      },
+      {
+        "name": "Premier League",
+        "url": "https://www.oddschecker.com/football/world/oman/premier-league"
+      },
+      {
+        "name": "Cup",
+        "url": "https://www.oddschecker.com/football/world/oman/cup"
+      },
+      {
+        "name": "Premier League",
+        "url": "https://www.oddschecker.com/football/world/pakistan/premier-league"
+      },
+      {
+        "name": "Liga de Futbol",
+        "url": "https://www.oddschecker.com/football/world/panama/liga-de-futbol"
+      },
+      {
+        "name": "Liga Nacional de Ascenso",
+        "url": "https://www.oddschecker.com/football/world/panama/liga-nacional-de-ascenso"
+      },
+      {
+        "name": "Youth",
+        "url": "https://www.oddschecker.com/football/world/panama/youth"
+      },
+      {
+        "name": "Primera Division",
+        "url": "https://www.oddschecker.com/football/world/paraguay/primera-division"
+      },
+      {
+        "name": "Division Intermedia",
+        "url": "https://www.oddschecker.com/football/world/paraguay/division-intermedia"
+      },
+      {
+        "name": "Youth",
+        "url": "https://www.oddschecker.com/football/world/paraguay/youth"
+      },
+      {
+        "name": "Primera Division",
+        "url": "https://www.oddschecker.com/football/world/peru/primera-division"
+      },
+      {
+        "name": "Youth",
+        "url": "https://www.oddschecker.com/football/world/peru/youth"
+      },
+      {
+        "name": "League",
+        "url": "https://www.oddschecker.com/football/world/puerto-rico/league"
+      },
+      {
+        "name": "UFL",
+        "url": "https://www.oddschecker.com/football/world/philippines/ufl"
+      },
+      {
+        "name": "UFL Cup",
+        "url": "https://www.oddschecker.com/football/world/philippines/ufl-cup"
+      },
+      {
+        "name": "2nd Division",
+        "url": "https://www.oddschecker.com/football/world/qatar/2nd-division"
+      },
+      {
+        "name": "Stars League",
+        "url": "https://www.oddschecker.com/football/world/qatar/stars-league"
+      },
+      {
+        "name": "Cup",
+        "url": "https://www.oddschecker.com/football/world/qatar/cup"
+      },
+      {
+        "name": "Youth",
+        "url": "https://www.oddschecker.com/football/world/qatar/youth"
+      },
+      {
+        "name": "Premier League",
+        "url": "https://www.oddschecker.com/football/world/saudi-arabia/premier-league"
+      },
+      {
+        "name": "Division 2",
+        "url": "https://www.oddschecker.com/football/world/saudi-arabia/division-2"
+      },
+      {
+        "name": "Cup",
+        "url": "https://www.oddschecker.com/football/world/saudi-arabia/cup"
+      },
+      {
+        "name": "Youth",
+        "url": "https://www.oddschecker.com/football/world/saudi-arabia/youth"
+      },
+      {
+        "name": "Premier",
+        "url": "https://www.oddschecker.com/football/world/senegal/premier"
+      },
+      {
+        "name": "Other",
+        "url": "https://www.oddschecker.com/football/world/senegal/other"
+      },
+      {
+        "name": "Cup",
+        "url": "https://www.oddschecker.com/football/world/singapore/cup"
+      },
+      {
+        "name": "League Cup",
+        "url": "https://www.oddschecker.com/football/world/singapore/league-cup"
+      },
+      {
+        "name": "Youth",
+        "url": "https://www.oddschecker.com/football/world/singapore/youth"
+      },
+      {
+        "name": "PSL",
+        "url": "https://www.oddschecker.com/football/world/south-africa/psl"
+      },
+      {
+        "name": "1st Division",
+        "url": "https://www.oddschecker.com/football/world/south-africa/1st-division"
+      },
+      {
+        "name": "Cup",
+        "url": "https://www.oddschecker.com/football/world/south-africa/cup"
+      },
+      {
+        "name": "K League 1",
+        "url": "https://www.oddschecker.com/football/world/south-korea/k-league-1"
+      },
+      {
+        "name": "National League",
+        "url": "https://www.oddschecker.com/football/world/south-korea/national-league"
+      },
+      {
+        "name": "Other",
+        "url": "https://www.oddschecker.com/football/world/south-korea/other"
+      },
+      {
+        "name": "Premier League",
+        "url": "https://www.oddschecker.com/football/world/sudan/premier-league"
+      },
+      {
+        "name": "Premier League",
+        "url": "https://www.oddschecker.com/football/world/thailand/premier-league"
+      },
+      {
+        "name": "Division 1",
+        "url": "https://www.oddschecker.com/football/world/thailand/division-1"
+      },
+      {
+        "name": "Division 3",
+        "url": "https://www.oddschecker.com/football/world/thailand/division-3"
+      },
+      {
+        "name": "Division 2",
+        "url": "https://www.oddschecker.com/football/world/thailand/division-2"
+      },
+      {
+        "name": "Turkmenistan Yokari Liga",
+        "url": "https://www.oddschecker.com/football/world/turkmenistan/turkmenistan-yokari-liga"
+      },
+      {
+        "name": "Pro League",
+        "url": "https://www.oddschecker.com/football/world/trinidad-and-tobago/pro-league"
+      },
+      {
+        "name": "Cup",
+        "url": "https://www.oddschecker.com/football/world/tunisia/cup"
+      },
+      {
+        "name": "Other",
+        "url": "https://www.oddschecker.com/football/world/tunisia/other"
+      },
+      {
+        "name": "Division 1",
+        "url": "https://www.oddschecker.com/football/world/uae/division-1"
+      },
+      {
+        "name": "Cup",
+        "url": "https://www.oddschecker.com/football/world/uae/cup"
+      },
+      {
+        "name": "Youth",
+        "url": "https://www.oddschecker.com/football/world/uae/youth"
+      },
+      {
+        "name": "Primera Division",
+        "url": "https://www.oddschecker.com/football/world/uruguay/primera-division"
+      },
+      {
+        "name": "Segunda Division",
+        "url": "https://www.oddschecker.com/football/world/uruguay/segunda-division"
+      },
+      {
+        "name": "MLS",
+        "url": "https://www.oddschecker.com/football/world/usa/mls"
+      },
+      {
+        "name": "NASL",
+        "url": "https://www.oddschecker.com/football/world/usa/nasl"
+      },
+      {
+        "name": "US Open Cup",
+        "url": "https://www.oddschecker.com/football/world/usa/us-open-cup"
+      },
+      {
+        "name": "College Cup",
+        "url": "https://www.oddschecker.com/football/world/usa/college-cup"
+      },
+      {
+        "name": "Youth",
+        "url": "https://www.oddschecker.com/football/world/usa/youth"
+      },
+      {
+        "name": "PDL",
+        "url": "https://www.oddschecker.com/football/world/usa/pdl"
+      },
+      {
+        "name": "Premier League",
+        "url": "https://www.oddschecker.com/football/world/uzbekistan/premier-league"
+      },
+      {
+        "name": "Cup",
+        "url": "https://www.oddschecker.com/football/world/uzbekistan/cup"
+      },
+      {
+        "name": "First League",
+        "url": "https://www.oddschecker.com/football/world/uzbekistan/first-league"
+      },
+      {
+        "name": "Cup",
+        "url": "https://www.oddschecker.com/football/world/venezuela/cup"
+      },
+      {
+        "name": "1st Division",
+        "url": "https://www.oddschecker.com/football/world/vietnam/1st-division"
+      },
+      {
+        "name": "3rd Division",
+        "url": "https://www.oddschecker.com/football/world/vietnam/3rd-division"
+      },
+      {
+        "name": "Cup",
+        "url": "https://www.oddschecker.com/football/world/vietnam/cup"
+      },
+      {
+        "name": "Youth",
+        "url": "https://www.oddschecker.com/football/world/vietnam/youth"
+      },
+      {
+        "name": "Premier League",
+        "url": "https://www.oddschecker.com/football/world/israel/premier-league"
+      },
+      {
+        "name": "AFC Champions League",
+        "url": "https://www.oddschecker.com/football/world/afc-champions-league"
+      },
+      {
+        "name": "AFC Presidents Cup",
+        "url": "https://www.oddschecker.com/football/world/afc-presidents-cup"
+      },
+      {
+        "name": "CAF Champions League",
+        "url": "https://www.oddschecker.com/football/world/caf-champions-league"
+      },
+      {
+        "name": "CAF Confederations Cup",
+        "url": "https://www.oddschecker.com/football/world/caf-confederations-cup"
+      },
+      {
+        "name": "CONCACAF Champions League",
+        "url": "https://www.oddschecker.com/football/world/concacaf-champions-league"
+      },
+      {
+        "name": "Copa Libertadores",
+        "url": "https://www.oddschecker.com/football/world/copa-libertadores"
+      },
+      {
+        "name": "Recopa Sudamericana",
+        "url": "https://www.oddschecker.com/football/world/recopa-sudamericana"
+      },
+      {
+        "name": "Gulf Club Championship",
+        "url": "https://www.oddschecker.com/football/world/gulf-club-championship"
+      },
+      {
+        "name": "CFU Club Championship",
+        "url": "https://www.oddschecker.com/football/world/cfu-club-championship"
+      },
+      {
+        "name": "North African Cup of Champions",
+        "url": "https://www.oddschecker.com/football/world/north-african-cup-of-champions"
+      },
+      {
+        "name": "OFC Champions League",
+        "url": "https://www.oddschecker.com/football/world/ofc-champions-league"
+      },
+      {
+        "name": "Viareggio Cup",
+        "url": "https://www.oddschecker.com/football/world/viareggio-cup"
+      },
+      {
+        "name": "Womens Coupon",
+        "url": "https://www.oddschecker.com/football/womens-club/womens-coupon"
+      },
+      {
+        "name": "Womens Champions League",
+        "url": "https://www.oddschecker.com/football/womens-club/womens-champions-league"
+      },
+      {
+        "name": "Womens Super League",
+        "url": "https://www.oddschecker.com/football/womens-club/england/womens-super-league"
+      },
+      {
+        "name": "Womens Premier League Cup",
+        "url": "https://www.oddschecker.com/football/womens-club/england/womens-premier-league-cup"
+      },
+      {
+        "name": "Womens Community Shield",
+        "url": "https://www.oddschecker.com/football/womens-club/england/womens-community-shield"
+      },
+      {
+        "name": "State League",
+        "url": "https://www.oddschecker.com/football/womens-club/australia/state-league"
+      },
+      {
+        "name": "Womens Queensland Premier League",
+        "url": "https://www.oddschecker.com/football/womens-club/australia/womens-queensland"
+      },
+      {
+        "name": "Argentina Championship",
+        "url": "https://www.oddschecker.com/football/womens-club/argentina-championship/argentina-championship"
+      },
+      {
+        "name": "Womens Super League",
+        "url": "https://www.oddschecker.com/football/womens-club/azerbaijan/womens-super-league"
+      },
+      {
+        "name": "Womens Premier League",
+        "url": "https://www.oddschecker.com/football/womens-club/belarus/womens-premier-league"
+      },
+      {
+        "name": "Womens Cup",
+        "url": "https://www.oddschecker.com/football/womens-club/belarus/womens-cup"
+      },
+      {
+        "name": "Womens Super League",
+        "url": "https://www.oddschecker.com/football/womens-club/china/womens-super-league"
+      },
+      {
+        "name": "Matches",
+        "url": "https://www.oddschecker.com/football/womens-club/croatia/matches"
+      },
+      {
+        "name": "Womens Elitedivisionen",
+        "url": "https://www.oddschecker.com/football/womens-club/denmark/womens-elitedivisionen"
+      },
+      {
+        "name": "Womens Cup",
+        "url": "https://www.oddschecker.com/football/womens-club/denmark/womens-cup"
+      },
+      {
+        "name": "Womens",
+        "url": "https://www.oddschecker.com/football/womens-club/estonia/womens-meistriliiga"
+      },
+      {
+        "name": "Womens Naisten Liiga",
+        "url": "https://www.oddschecker.com/football/womens-club/finland/womens-naisten-liiga"
+      },
+      {
+        "name": "Womens Cup",
+        "url": "https://www.oddschecker.com/football/womens-club/finland/womens-cup"
+      },
+      {
+        "name": "Womens Division 1",
+        "url": "https://www.oddschecker.com/football/womens-club/france/womens-division-1"
+      },
+      {
+        "name": "Womens Cup",
+        "url": "https://www.oddschecker.com/football/womens-club/france/womens-cup"
+      },
+      {
+        "name": "Womens DFB Pokal",
+        "url": "https://www.oddschecker.com/football/womens-club/germany/womens-dfb-pokal"
+      },
+      {
+        "name": "Matches",
+        "url": "https://www.oddschecker.com/football/womens-club/greece/matches"
+      },
+      {
+        "name": "Womens Eredivisie",
+        "url": "https://www.oddschecker.com/football/womens-club/holland/womens-eredivisie"
+      },
+      {
+        "name": "NB1 League",
+        "url": "https://www.oddschecker.com/football/womens-club/hungary/nb1-league"
+      },
+      {
+        "name": "Womens Premier League",
+        "url": "https://www.oddschecker.com/football/womens-club/iceland/womens-premier-league"
+      },
+      {
+        "name": "Womens Cup",
+        "url": "https://www.oddschecker.com/football/womens-club/iceland/womens-cup"
+      },
+      {
+        "name": "Womens Youth",
+        "url": "https://www.oddschecker.com/football/womens-club/iceland/womens-youth"
+      },
+      {
+        "name": "Ireland",
+        "url": "https://www.oddschecker.com/football/womens-club/ireland"
+      },
+      {
+        "name": "Womens Division 1",
+        "url": "https://www.oddschecker.com/football/womens-club/israel/womens-division-1"
+      },
+      {
+        "name": "Womens Division 2",
+        "url": "https://www.oddschecker.com/football/womens-club/israel/womens-division-2"
+      },
+      {
+        "name": "Womens Serie A",
+        "url": "https://www.oddschecker.com/football/womens-club/italy/womens-serie-a"
+      },
+      {
+        "name": "Womens League Matches",
+        "url": "https://www.oddschecker.com/football/womens-club/japan/womens-division-1"
+      },
+      {
+        "name": "Womens Premier League",
+        "url": "https://www.oddschecker.com/football/womens-club/jamaica/womens-premier-league"
+      },
+      {
+        "name": "Womens League",
+        "url": "https://www.oddschecker.com/football/womens-club/jordan/womens-league"
+      },
+      {
+        "name": "Kazakhstan",
+        "url": "https://www.oddschecker.com/football/womens-club/kazakhstan"
+      },
+      {
+        "name": "Womens League",
+        "url": "https://www.oddschecker.com/football/womens-club/latvia/womens-league"
+      },
+      {
+        "name": "Womens A Lyga",
+        "url": "https://www.oddschecker.com/football/womens-club/lithuania/womens-a-lyga"
+      },
+      {
+        "name": "Matches",
+        "url": "https://www.oddschecker.com/football/womens-club/macedonia/matches"
+      },
+      {
+        "name": "Womens Matches",
+        "url": "https://www.oddschecker.com/football/womens-club/malta/womens-matches"
+      },
+      {
+        "name": "Womens Toppserien",
+        "url": "https://www.oddschecker.com/football/womens-club/norway/womens-toppserien"
+      },
+      {
+        "name": "Womens Division 1",
+        "url": "https://www.oddschecker.com/football/womens-club/norway/womens-division-1"
+      },
+      {
+        "name": "Womens Cup",
+        "url": "https://www.oddschecker.com/football/womens-club/norway/womens-cup"
+      },
+      {
+        "name": "Matches",
+        "url": "https://www.oddschecker.com/football/womens-club/northern-ireland/matches"
+      },
+      {
+        "name": "Womens Ekstraklasa",
+        "url": "https://www.oddschecker.com/football/womens-club/poland/womens-ekstraklasa"
+      },
+      {
+        "name": "Womens Liga 1",
+        "url": "https://www.oddschecker.com/football/womens-club/romania/womens-liga-1"
+      },
+      {
+        "name": "Womens Premier League",
+        "url": "https://www.oddschecker.com/football/womens-club/scotland/womens-premier-league"
+      },
+      {
+        "name": "Womens FA Cup",
+        "url": "https://www.oddschecker.com/football/womens-club/scotland/womens-fa-cup"
+      },
+      {
+        "name": "Womens K League",
+        "url": "https://www.oddschecker.com/football/womens-club/south-korea/womens-k-league"
+      },
+      {
+        "name": "Womens Superliga",
+        "url": "https://www.oddschecker.com/football/womens-club/spain/womens-superliga"
+      },
+      {
+        "name": "Womens Cup",
+        "url": "https://www.oddschecker.com/football/womens-club/spain/womens-cup"
+      },
+      {
+        "name": "Womens Damallsvenskan",
+        "url": "https://www.oddschecker.com/football/womens-club/sweden/womens-damallsvenskan"
+      },
+      {
+        "name": "Womens Cup",
+        "url": "https://www.oddschecker.com/football/womens-club/sweden/womens-cup"
+      },
+      {
+        "name": "Womens Lower League",
+        "url": "https://www.oddschecker.com/football/womens-club/sweden/womens-lower-league"
+      },
+      {
+        "name": "Womens Nationalliga A",
+        "url": "https://www.oddschecker.com/football/womens-club/switzerland/womens-nationalliga-a"
+      },
+      {
+        "name": "Womens First League",
+        "url": "https://www.oddschecker.com/football/womens-club/turkey/womens-first-league"
+      },
+      {
+        "name": "Womens Division 1",
+        "url": "https://www.oddschecker.com/football/womens-club/ukraine/womens-division-1"
+      },
+      {
+        "name": "Womens PSL",
+        "url": "https://www.oddschecker.com/football/womens-club/usa/womens-psl"
+      },
+      {
+        "name": "Womens National Championship",
+        "url": "https://www.oddschecker.com/football/womens-club/vietnam/womens-national-championship"
+      },
+      {
+        "name": "Womens Matches",
+        "url": "https://www.oddschecker.com/football/womens-club/venezuela/matches"
+      },
+      {
+        "name": "U19",
+        "url": "https://www.oddschecker.com/football/womens-international/u19"
+      },
+      {
+        "name": "World Cup",
+        "url": "https://www.oddschecker.com/football/world-cup"
+      },
+      {
+        "name": "Euro 2024",
+        "url": "https://www.oddschecker.com/football/euro-2024"
+      },
+      {
+        "name": "Euro 2024 Odds",
+        "url": "https://www.oddschecker.com//football/euro-2024"
+      },
+      {
+        "name": "Euro 2024 Tips",
+        "url": "https://www.oddschecker.com//tips/football/euro-2024"
+      },
+      {
+        "name": "UEFA Nations League",
+        "url": "https://www.oddschecker.com/football/uefa-nations-league"
+      },
+      {
+        "name": "World Cup International Qualifiers",
+        "url": "https://www.oddschecker.com/football/world-cup-international-qualifiers"
+      },
+      {
+        "name": "World Cup South America Qualifiers",
+        "url": "https://www.oddschecker.com/football/world-cup-south-america-qualifiers"
+      },
+      {
+        "name": "Copa America",
+        "url": "https://www.oddschecker.com/football/copa-america"
+      },
+      {
+        "name": "U23 International",
+        "url": "https://www.oddschecker.com/football/youth/u23"
+      },
+      {
+        "name": "U21 International",
+        "url": "https://www.oddschecker.com/football/youth/u21"
+      },
+      {
+        "name": "U19 European Championship",
+        "url": "https://www.oddschecker.com/football/youth/u19-european-championship"
+      }
+    ]
+  },
+  {
+    "name": "Basketball",
+    "url": "basketball/leagues-cups",
+    "markets": [
+      "winner",
+      "point-spread"
+    ],
+    "leagues": [
+      {
+        "name": "Season Match Bets",
+        "url": "https://www.oddschecker.com/basketball/season-match-bets"
+      },
+      {
+        "name": "NBA",
+        "url": "https://www.oddschecker.com/basketball/nba"
+      },
+      {
+        "name": "NBA All-Star",
+        "url": "https://www.oddschecker.com/basketball/nba-all-star"
+      },
+      {
+        "name": "NCAAB",
+        "url": "https://www.oddschecker.com/basketball/ncaab"
+      },
+      {
+        "name": "Euroleague",
+        "url": "https://www.oddschecker.com/basketball/euroleague"
+      },
+      {
+        "name": "Eurocup",
+        "url": "https://www.oddschecker.com/basketball/eurocup"
+      },
+      {
+        "name": "Womens Euroleague",
+        "url": "https://www.oddschecker.com/basketball/womens-euroleague"
+      },
+      {
+        "name": "Womens Eurocup",
+        "url": "https://www.oddschecker.com/basketball/womens-eurocup"
+      },
+      {
+        "name": "Mens NBL",
+        "url": "https://www.oddschecker.com/basketball/australia/mens-nbl"
+      },
+      {
+        "name": "Womens WNBL",
+        "url": "https://www.oddschecker.com/basketball/australia/womens-wnbl"
+      },
+      {
+        "name": "Womens CBA",
+        "url": "https://www.oddschecker.com/basketball/china/womens-cba"
+      },
+      {
+        "name": "Pro A",
+        "url": "https://www.oddschecker.com/basketball/france/pro-a"
+      },
+      {
+        "name": "Cup",
+        "url": "https://www.oddschecker.com/basketball/france/cup"
+      },
+      {
+        "name": "Bundesliga",
+        "url": "https://www.oddschecker.com/basketball/germany/bundesliga"
+      },
+      {
+        "name": "Cup",
+        "url": "https://www.oddschecker.com/basketball/germany/cup"
+      },
+      {
+        "name": "BBL",
+        "url": "https://www.oddschecker.com/basketball/great-britain/bbl"
+      },
+      {
+        "name": "League Cup",
+        "url": "https://www.oddschecker.com/basketball/great-britain/league-cup"
+      },
+      {
+        "name": "Coppa Italia",
+        "url": "https://www.oddschecker.com/basketball/italy/coppa-italia"
+      },
+      {
+        "name": "Premier League",
+        "url": "https://www.oddschecker.com/basketball/israel/premier-league"
+      },
+      {
+        "name": "Cup",
+        "url": "https://www.oddschecker.com/basketball/israel/cup"
+      },
+      {
+        "name": "Cup",
+        "url": "https://www.oddschecker.com/basketball/lithuania/cup"
+      },
+      {
+        "name": "League",
+        "url": "https://www.oddschecker.com/basketball/poland/league"
+      },
+      {
+        "name": "ACB League",
+        "url": "https://www.oddschecker.com/basketball/spain/acb-league"
+      },
+      {
+        "name": "Copa Del Rey",
+        "url": "https://www.oddschecker.com/basketball/spain/copa-del-rey"
+      },
+      {
+        "name": "Super League",
+        "url": "https://www.oddschecker.com/basketball/turkey/super-league"
+      },
+      {
+        "name": "Cup",
+        "url": "https://www.oddschecker.com/basketball/turkey/cup"
+      },
+      {
+        "name": "FIBA Asia Cup",
+        "url": "https://www.oddschecker.com/basketball/fiba-asia-cup"
+      },
+      {
+        "name": "Womens Eurobasket",
+        "url": "https://www.oddschecker.com/basketball/womens-eurobasket"
+      },
+      {
+        "name": "International Friendlies",
+        "url": "https://www.oddschecker.com/basketball/international-friendlies"
+      },
+      {
+        "name": "WNBA",
+        "url": "https://www.oddschecker.com/basketball/wnba"
+      },
+      {
+        "name": "WNCAA",
+        "url": "https://www.oddschecker.com/basketball/wncaa"
+      }
+    ]
+  },
+  {
+    "name": "Ice Hockey",
+    "url": "ice-hockey/leagues-cups",
+    "markets": [
+      "winner",
+      "point-spread",
+      "both-teams-to-score"
+    ],
+    "leagues": [
+      {
+        "name": "NHL",
+        "url": "https://www.oddschecker.com/ice-hockey/nhl"
+      },
+      {
+        "name": "IIHF World Championship",
+        "url": "https://www.oddschecker.com/ice-hockey/iihf-world-championship"
+      },
+      {
+        "name": "Champions Hockey League",
+        "url": "https://www.oddschecker.com/ice-hockey/champions-hockey-league"
+      },
+      {
+        "name": "ICE Hockey League",
+        "url": "https://www.oddschecker.com/ice-hockey/austria/ice-hockey-league"
+      },
+      {
+        "name": "Metal Ligaen",
+        "url": "https://www.oddschecker.com/ice-hockey/denmark/metal-ligaen"
+      },
+      {
+        "name": "AL-Bank Ligaen",
+        "url": "https://www.oddschecker.com/ice-hockey/denmark/al-bank-ligaen"
+      },
+      {
+        "name": "Extraliga",
+        "url": "https://www.oddschecker.com/ice-hockey/czech-republic/extraliga"
+      },
+      {
+        "name": "Chance Liga",
+        "url": "https://www.oddschecker.com/ice-hockey/czech-republic/chance-liga"
+      },
+      {
+        "name": "Ligue Magnus",
+        "url": "https://www.oddschecker.com/ice-hockey/france/ligue-magnus"
+      },
+      {
+        "name": "SM-Liga",
+        "url": "https://www.oddschecker.com/ice-hockey/finland/sm-liga"
+      },
+      {
+        "name": "Mestis Liga",
+        "url": "https://www.oddschecker.com/ice-hockey/finland/mestis-liga"
+      },
+      {
+        "name": "Bundesliga 1",
+        "url": "https://www.oddschecker.com/ice-hockey/germany/bundesliga-1"
+      },
+      {
+        "name": "Latvia",
+        "url": "https://www.oddschecker.com/ice-hockey/latvia"
+      },
+      {
+        "name": "Elitiserien",
+        "url": "https://www.oddschecker.com/ice-hockey/norway/elitiserien"
+      },
+      {
+        "name": "Extraliga",
+        "url": "https://www.oddschecker.com/ice-hockey/slovakia/extraliga"
+      },
+      {
+        "name": "1 Liga",
+        "url": "https://www.oddschecker.com/ice-hockey/slovakia/1-liga"
+      },
+      {
+        "name": "SHL",
+        "url": "https://www.oddschecker.com/ice-hockey/sweden/shl"
+      },
+      {
+        "name": "Allsvenskan",
+        "url": "https://www.oddschecker.com/ice-hockey/sweden/allsvenskan"
+      },
+      {
+        "name": "Hockeyettan",
+        "url": "https://www.oddschecker.com/ice-hockey/sweden/hockeyettan"
+      },
+      {
+        "name": "British",
+        "url": "https://www.oddschecker.com/ice-hockey/uk/british"
+      },
+      {
+        "name": "NLA",
+        "url": "https://www.oddschecker.com/ice-hockey/switzerland/nla"
+      },
+      {
+        "name": "NLB",
+        "url": "https://www.oddschecker.com/ice-hockey/switzerland/nlb"
+      },
+      {
+        "name": "AHL",
+        "url": "https://www.oddschecker.com/ice-hockey/ahl"
+      }
+    ]
+  },
+  {
+    "name": "Australian Rules",
+    "url": "australian-rules/leagues-cups",
+    "markets": [
+      "winner",
+      "handicaps"
+    ],
+    "leagues": [
+      {
+        "name": "AFL",
+        "url": "https://www.oddschecker.com/australian-rules/afl"
+      }
+    ]
+  },
+  {
+    "name": "Tennis",
+    "url": "tennis/competitions",
+    "markets": [
+      "winner",
+      "handicaps"
+    ],
+    "leagues": [
+      {
+        "name": "Mens",
+        "url": "https://www.oddschecker.com/tennis/australian-open/mens"
+      },
+      {
+        "name": "Womens",
+        "url": "https://www.oddschecker.com/tennis/australian-open/womens"
+      },
+      {
+        "name": "Mens",
+        "url": "https://www.oddschecker.com/tennis/french-open/mens"
+      },
+      {
+        "name": "Womens",
+        "url": "https://www.oddschecker.com/tennis/french-open/womens"
+      },
+      {
+        "name": "Match Bets",
+        "url": "https://www.oddschecker.com/tennis/french-open/match-bets"
+      },
+      {
+        "name": "Mens",
+        "url": "https://www.oddschecker.com/tennis/wimbledon/mens"
+      },
+      {
+        "name": "Womens",
+        "url": "https://www.oddschecker.com/tennis/wimbledon/womens"
+      },
+      {
+        "name": "Mens",
+        "url": "https://www.oddschecker.com/tennis/us-open/mens"
+      },
+      {
+        "name": "Womens",
+        "url": "https://www.oddschecker.com/tennis/us-open/womens"
+      },
+      {
+        "name": "ATP Rotterdam",
+        "url": "https://www.oddschecker.com/tennis/atp-rotterdam"
+      },
+      {
+        "name": "ATP Delray Beach",
+        "url": "https://www.oddschecker.com/tennis/atp-delray-beach"
+      },
+      {
+        "name": "ATP Buenos Aires",
+        "url": "https://www.oddschecker.com/tennis/atp-buenos-aires"
+      },
+      {
+        "name": "WTA Doha",
+        "url": "https://www.oddschecker.com/tennis/wta-doha"
+      }
+    ]
+  },
+  {
+    "name": "Ice Hockey",
+    "url": "ice-hockey/leagues-cups",
+    "markets": [
+      "winner",
+      "point-spread",
+      "both-teams-to-score"
+    ],
+    "leagues": [
+      {
+        "name": "NHL",
+        "url": "https://www.oddschecker.com/ice-hockey/nhl"
+      },
+      {
+        "name": "IIHF World Championship",
+        "url": "https://www.oddschecker.com/ice-hockey/iihf-world-championship"
+      },
+      {
+        "name": "Champions Hockey League",
+        "url": "https://www.oddschecker.com/ice-hockey/champions-hockey-league"
+      },
+      {
+        "name": "ICE Hockey League",
+        "url": "https://www.oddschecker.com/ice-hockey/austria/ice-hockey-league"
+      },
+      {
+        "name": "Metal Ligaen",
+        "url": "https://www.oddschecker.com/ice-hockey/denmark/metal-ligaen"
+      },
+      {
+        "name": "AL-Bank Ligaen",
+        "url": "https://www.oddschecker.com/ice-hockey/denmark/al-bank-ligaen"
+      },
+      {
+        "name": "Extraliga",
+        "url": "https://www.oddschecker.com/ice-hockey/czech-republic/extraliga"
+      },
+      {
+        "name": "Chance Liga",
+        "url": "https://www.oddschecker.com/ice-hockey/czech-republic/chance-liga"
+      },
+      {
+        "name": "Ligue Magnus",
+        "url": "https://www.oddschecker.com/ice-hockey/france/ligue-magnus"
+      },
+      {
+        "name": "SM-Liga",
+        "url": "https://www.oddschecker.com/ice-hockey/finland/sm-liga"
+      },
+      {
+        "name": "Mestis Liga",
+        "url": "https://www.oddschecker.com/ice-hockey/finland/mestis-liga"
+      },
+      {
+        "name": "Bundesliga 1",
+        "url": "https://www.oddschecker.com/ice-hockey/germany/bundesliga-1"
+      },
+      {
+        "name": "Latvia",
+        "url": "https://www.oddschecker.com/ice-hockey/latvia"
+      },
+      {
+        "name": "Elitiserien",
+        "url": "https://www.oddschecker.com/ice-hockey/norway/elitiserien"
+      },
+      {
+        "name": "Extraliga",
+        "url": "https://www.oddschecker.com/ice-hockey/slovakia/extraliga"
+      },
+      {
+        "name": "1 Liga",
+        "url": "https://www.oddschecker.com/ice-hockey/slovakia/1-liga"
+      },
+      {
+        "name": "SHL",
+        "url": "https://www.oddschecker.com/ice-hockey/sweden/shl"
+      },
+      {
+        "name": "Allsvenskan",
+        "url": "https://www.oddschecker.com/ice-hockey/sweden/allsvenskan"
+      },
+      {
+        "name": "Hockeyettan",
+        "url": "https://www.oddschecker.com/ice-hockey/sweden/hockeyettan"
+      },
+      {
+        "name": "British",
+        "url": "https://www.oddschecker.com/ice-hockey/uk/british"
+      },
+      {
+        "name": "NLA",
+        "url": "https://www.oddschecker.com/ice-hockey/switzerland/nla"
+      },
+      {
+        "name": "NLB",
+        "url": "https://www.oddschecker.com/ice-hockey/switzerland/nlb"
+      },
+      {
+        "name": "AHL",
+        "url": "https://www.oddschecker.com/ice-hockey/ahl"
+      }
+    ]
+  },
+  {
+    "name": "E-Sports",
+    "url": "e-sports",
+    "markets": [
+      "winner"
+    ],
+    "leagues": [
+      {
+        "name": "PGL Major EU RMR A",
+        "url": "https://www.oddschecker.com/e-sports/counter-strike-2/pgl-major-eu-rmr-a"
+      },
+      {
+        "name": "PGL Major EU RMR B",
+        "url": "https://www.oddschecker.com/e-sports/counter-strike-2/pgl-major-eu-rmr-b"
+      },
+      {
+        "name": "Dota 2",
+        "url": "https://www.oddschecker.com/e-sports/dota-2/dota-2"
+      },
+      {
+        "name": "BLAST  Major",
+        "url": "https://www.oddschecker.com/e-sports/rainbow-six/rainbow-six"
+      },
+      {
+        "name": "CDL Championship",
+        "url": "https://www.oddschecker.com/e-sports/call-of-duty/cdl-championship"
+      },
+      {
+        "name": "KIC",
+        "url": "https://www.oddschecker.com/e-sports/honor-of-kings/kic"
+      },
+      {
+        "name": "World Championship",
+        "url": "https://www.oddschecker.com/e-sports/mobile-legends/world-championship"
+      },
+      {
+        "name": "World Championship",
+        "url": "https://www.oddschecker.com/e-sports/brawl-stars/world-champion"
+      },
+      {
+        "name": "AIC",
+        "url": "https://www.oddschecker.com/e-sports/arena-of-valor/aic"
+      }
+    ]
+  }
+]
