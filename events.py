@@ -50,12 +50,11 @@ async def scrape_events():
         all_market_ids = []
 
         for sport in sports:
-            print(f"-- {sport['name']}")
             leagues = sport["leagues"]
             markets = sport["markets"]
             for league in leagues:
                 for market in markets:
-                    print(f"\tLeague: {league['name']} - {market}")
+                    print(f"\t{sport['name']}: {league['name']} - {market}")
 
                     try:
                         league_url = get_ajax_url(league['url'], market)
