@@ -2,7 +2,7 @@ import json
 from bs4 import BeautifulSoup
 from playwright.async_api import async_playwright
 
-from utils import get_ajax_url
+from utils import get_ajax_url, read_json, write_json
 
 
 async def fetch_html(page, url):
@@ -43,9 +43,8 @@ async def scrape_events():
     async with async_playwright() as p:
         browser = await p.firefox.launch()
         context = await browser.new_context()
-
-        with open('leagues_data.json', 'r') as file:
-            sports = json.load(file)
+            
+        sports = read_json('leagues_data.json')
 
         all_market_ids = []
 
@@ -86,12 +85,10 @@ async def scrape_events():
         await context.close()
         await browser.close()
 
-        file_path = 'market_ids.json'
-
         # Remove duplicates
         all_market_ids = list(dict.fromkeys(all_market_ids))
         # Write the list to a JSON file
-        with open(file_path, 'w') as json_file:
-            json.dump(all_market_ids, json_file)
+        file_path = 'market_ids.json'
+        write_json(file_path, all_market_ids)
 
         print(f'The list of markets has been saved to {file_path}')

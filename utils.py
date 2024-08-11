@@ -22,6 +22,14 @@ def split_list(input_list: list[str], max_chunk_size: int) -> list[list[str]]:
 
     return chunks
 
+def write_json(file_name: str, content: object, **kwargs):
+    with open(file_name, 'w') as json_file:
+        json.dump(content, json_file, **kwargs)
+        
+def read_json(file_name: str):
+    with open(file_name, 'r') as json_file:
+        return json.load(json_file)
+
 # def group_bets(json_data, new_bet_data=None):
 #     # Group by marketId
 #     grouped_data = {}

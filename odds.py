@@ -5,13 +5,13 @@ import json
 import pandas as pd
 from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright
-from utils import split_list, get_full_url
+from utils import split_list, get_full_url, write_json
 
 exception_bookmakers = [
     "LS", # LiveScore
     "OE", # 10bet
     "WH", # WilliamHill
-    #"SK", # Skybet
+    "SK", # Skybet
     "PP", # PaddyPower
     "FB", # BetFair
     "VT", # VBet
@@ -19,7 +19,11 @@ exception_bookmakers = [
     "SI", # SportingIndex
     "SX", # SpreadEx
     "WA", # Betway
-    "VC", # BetVictor
+    "VC", # BetVictor - BANNED
+    "QN", "G5", # QuinnBet + BetGoodWin
+    'KN', 'UN', 'DP', # Unibet-alike,
+    "BY", # BoyleSports - BANNED
+
 ]
 
 
@@ -53,8 +57,7 @@ def get_event_odds(market_ids: list[str]):
             chunk_data = json.loads(json_content)
             odds_data.extend(chunk_data)
 
-        with open("odds_data.json", 'w') as json_file:
-            json.dump(odds_data, json_file)
+        write_json("odds_data.json", odds_data, indent=2)
 
         formatted_odds_data = []
         for odd in odds_data:
@@ -82,7 +85,7 @@ def get_event_odds(market_ids: list[str]):
                 print(odd["bets"], total_inverse_odds)
                 if total_inverse_odds != 0 and total_inverse_odds < 1:
                     profit_percentage = ((1 / total_inverse_odds) - 1) * 100
-                    if profit_percentage > 1.5:
+                    if profit_percentage > 0.5:
                         formatted_odd = {
                             "category": odd["categoryName"],
                             "event": odd["eventName"],
@@ -100,8 +103,7 @@ def get_event_odds(market_ids: list[str]):
 
 
 def process_json_data(json_data):
-    with open("event_odds.json", 'w') as json_file:
-        json.dump(json_data, json_file)
+    write_json("event_odds.json", json_data)
 
     df = pd.DataFrame(json_data)
 

@@ -1,14 +1,12 @@
 from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup
-import json
+from utils import get_full_url, write_json
 
-from utils import get_full_url
-
-sports2 = [
+sports = [
         {
             "name": "Football",
             "url": "football/leagues-cups",
-            "markets": ["winner", "both-teams-to-score"]
+            "markets": ["both-teams-to-score"]
         },
         {
             "name": "Basketball",
@@ -41,6 +39,11 @@ sports2 = [
             "markets": ["winner", "point-spread", "both-teams-to-score"]
         },
         {
+            "name": "Cricket",
+            "url": "cricket/leagues-cups",
+            "markets": ["winner"]
+        },
+        {
             "name": "E-Sports",
             "url": "e-sports",
             "markets": ["winner"]
@@ -48,23 +51,12 @@ sports2 = [
     ]
 
 def scrape_leagues():
-    # sports = [
-    #     "football/leagues-cups",
-    #     "basketball/leagues-cups",
-    #     "ice-hockey/leagues-cups",
-    #     "american-football/leagues-cups",
-    #     "australian-rules/leagues-cups",
-    #     "tennis/competitions",
-    #     "hockey/leagues-cups",
-    #     "e-sports",
-    # ]
-
     sports_with_leagues = []
 
     with sync_playwright() as p:
         browser = p.firefox.launch(headless=True)
 
-        for sport in sports2:
+        for sport in sports:
             sport_leagues = []
             url = get_full_url(sport["url"])
 
@@ -83,10 +75,6 @@ def scrape_leagues():
                 anchor = league.find('a', href=True)
                 league_url = get_full_url(anchor.get('href'))
                 league_name = anchor.find(string=True, recursive=False)
-                # if league_name not in sports_with_leagues:
-                #     sport_leagues[league_name] = {'name': league_name, 'url': league_url}
-                # else:
-                #     print(f"{league_name} is already in the list")
                 sport_leagues.append({'name': league_name, 'url': league_url})
 
             sports_with_leagues.append({
@@ -100,8 +88,7 @@ def scrape_leagues():
         browser.close()
 
     output_file = 'leagues_data.json'
-    with open(output_file, 'w') as json_file:
-        json.dump(sports_with_leagues, json_file, indent=2)
+    write_json(output_file, sports_with_leagues, indent=2)
 
     print(f"Data has been saved to {output_file}")
 
