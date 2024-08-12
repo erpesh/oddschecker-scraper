@@ -6,30 +6,12 @@ import pandas as pd
 from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright
 from utils import split_list, get_full_url, write_json
-
-exception_bookmakers = [
-    "LS", # LiveScore
-    "OE", # 10bet
-    "WH", # WilliamHill
-    "SK", # Skybet
-    "PP", # PaddyPower
-    "FB", # BetFair
-    "VT", # VBet
-    "S6", # StarSports
-    "SI", # SportingIndex
-    "SX", # SpreadEx
-    "WA", # Betway
-    "VC", # BetVictor - BANNED
-    "QN", "G5", # QuinnBet + BetGoodWin
-    'KN', 'UN', 'DP', # Unibet-alike,
-    "BY", # BoyleSports - BANNED
-
-]
+from settings.exceptions import exception_bookmakers
 
 
 def is_date_past(date_string):
     date_object = datetime.strptime(date_string, "%Y-%m-%dT%H:%M:%SZ")
-    current_datetime = datetime.utcnow()
+    current_datetime = datetime.now()
     return date_object < current_datetime or date_object > current_datetime.today() + relativedelta(months=1)
 
 def get_event_odds(market_ids: list[str]):
@@ -52,7 +34,7 @@ def get_event_odds(market_ids: list[str]):
             html = page.content()
             soup = BeautifulSoup(html, 'html.parser')
             json_content = soup.find('pre').text
-            # print(json_content)
+            
             # Process the JSON data as needed
             chunk_data = json.loads(json_content)
             odds_data.extend(chunk_data)

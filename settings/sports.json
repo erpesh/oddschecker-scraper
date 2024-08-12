@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Football",
+        "url": "football/leagues-cups",
+        "markets": ["both-teams-to-score"]
+    },
+    {
+        "name": "Basketball",
+        "url": "basketball/leagues-cups",
+        "markets": ["winner", "point-spread"]
+    },
+    {
+        "name": "Ice Hockey",
+        "url": "ice-hockey/leagues-cups",
+        "markets": ["winner", "point-spread", "both-teams-to-score"]
+    },
+    {
+        "name": "Australian Rules",
+        "url": "australian-rules/leagues-cups",
+        "markets": ["winner", "handicaps"]
+    },
+    {
+        "name": "Tennis",
+        "url": "tennis/competitions",
+        "markets": ["winner", "handicaps"]
+    },
+    {
+        "name": "Ice Hockey",
+        "url": "ice-hockey/leagues-cups",
+        "markets": ["winner", "point-spread", "both-teams-to-score"]
+    },
+    {
+        "name": "Cricket",
+        "url": "cricket/leagues-cups",
+        "markets": ["winner"]
+    },
+    {
+        "name": "E-Sports",
+        "url": "e-sports",
+        "markets": ["winner"]
+    }
+]
