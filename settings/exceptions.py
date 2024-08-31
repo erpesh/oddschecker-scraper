@@ -4,7 +4,7 @@ exception_bookmakers = [
     "WH", # WilliamHill
     # "SK", # Skybet
     # "PP", # PaddyPower
-    # "FB", # BetFair
+    "FB", # BetFair
     "VT", # VBet
     "S6", # StarSports
     "SI", # SportingIndex
@@ -12,6 +12,6 @@ exception_bookmakers = [
     "WA", # Betway
     "VC", # BetVictor - BANNED
     # "QN", "G5", # QuinnBet + BetGoodWin
-    # 'KN', 'UN', 'DP', # Unibet-alike,
+    'KN', 'UN', 'DP', # Unibet-alike, - LIMITED
     "BY", # BoyleSports - BANNED
 ]
