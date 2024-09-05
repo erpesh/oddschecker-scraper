@@ -1,13 +1,4 @@
-from asyncio import run
-from scraper import get_event_odds, scrape_events, scrape_leagues
-from utils import read_json
-import threading
-
-def scrape_odds():
-    run(scrape_events())
-    loaded_list = read_json('market_ids.json')
-    loaded_list = [str(i) for i in loaded_list]
-    get_event_odds(loaded_list) 
+from scraper import scrape_leagues, scrape_odds
     
     
 def start_console():

@@ -1,6 +1,6 @@
 from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup
-from utils import fetch_html, get_full_url, is_date_past, process_json_data, write_json, read_json
+from utils import fetch_html, find_arbitrage, get_full_url, write_json, read_json
 from asyncio import run
 from utils import read_json
 import json
@@ -9,7 +9,6 @@ import pandas as pd
 from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright
 from utils import split_list, get_full_url, write_json
-from settings.exceptions import exception_bookmakers
 
 from playwright.async_api import async_playwright
 
@@ -147,7 +146,10 @@ def scrape_odds():
     run(scrape_events())
     loaded_list = read_json('market_ids.json')
     loaded_list = [str(i) for i in loaded_list]
-    get_event_odds(loaded_list) 
+    get_event_odds(loaded_list)
+
+    # Temporary
+    find_arbitrage()
         
 def get_event_odds(market_ids: list[str]):
     market_ids_2d = split_list(market_ids, 100)
@@ -176,44 +178,4 @@ def get_event_odds(market_ids: list[str]):
 
         write_json("odds_data.json", odds_data, indent=2)
 
-        formatted_odds_data = []
-        for odd in odds_data:
-
-            is_running = "In Running" in odd["subeventName"]
-            if is_running or any("bestOddsBookmakerCodes" not in bet for bet in odd["bets"]) or is_date_past(odd["subeventStartTime"]) or len(odd["bets"]) < 2:
-                continue
-
-            # Filter out exception bookmakers
-            for bet in odd["bets"]:
-                bet['bestOddsBookmakerCodes'] = [bookmaker for bookmaker in bet['bestOddsBookmakerCodes'] if
-                                                bookmaker not in exception_bookmakers]
-
-            if any(len(bet["bestOddsBookmakerCodes"]) == 0 for bet in odd["bets"]):
-                continue
-
-            if all('bestOddsDecimal' in bet for bet in odd["bets"]):
-                bets = [{
-                            "name": bet["betName"],
-                            "bookmakers": bet["bestOddsBookmakerCodes"],
-                            "odd": bet["bestOddsDecimal"]
-                        } if "bestOddsDecimal" in bet else None for bet in odd["bets"]]
-
-                total_inverse_odds = sum([1 / bet["odd"] for bet in bets])
-                print(odd["bets"], total_inverse_odds)
-                if total_inverse_odds != 0 and total_inverse_odds < 1:
-                    profit_percentage = ((1 / total_inverse_odds) - 1) * 100
-                    if profit_percentage > 0.5:
-                        formatted_odd = {
-                            "category": odd["categoryName"],
-                            "event": odd["eventName"],
-                            "name": odd["subeventName"],
-                            "market": odd["marketTypeName"],
-                            "date": odd["subeventStartTime"],
-                            "bets": bets,
-                            "profit": profit_percentage
-                        }
-                        formatted_odds_data.append(formatted_odd)
-
-        # Close the browser
         browser.close()
-        process_json_data(formatted_odds_data)

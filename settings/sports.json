@@ -10,9 +10,24 @@
         "markets": ["winner", "point-spread"]
     },
     {
-        "name": "Ice Hockey",
-        "url": "ice-hockey/leagues-cups",
-        "markets": ["winner", "point-spread", "both-teams-to-score"]
+        "name": "American Football",
+        "url": "american-football/leagues-cups",
+        "markets": ["winner", "point-spread"]
+    },
+    {
+        "name": "Baseball",
+        "url": "baseball/leagues-cups",
+        "markets": ["winner", "point-spread"]
+    },
+    {
+        "name": "Rugby League",
+        "url": "rugby-league/leagues-cups",
+        "markets": ["draw-no-bet"]
+    },
+    {
+        "name": "Rugby Union",
+        "url": "rugby-union/leagues-cups",
+        "markets": ["draw-no-bet"]
     },
     {
         "name": "Australian Rules",
